@@ -1,11 +1,11 @@
 # CLAUDE.md - Chief of Staff Context
 
-## Company Overview
-- **Company**: TechStart Inc
-- **Stage**: Series A (Closed $10M in January 2024)
-- **Industry**: B2B SaaS - AI-powered developer tools
-- **Founded**: 2022
-- **HQ**: San Francisco, CA
+## Visão Geral da Empresa
+- **Empresa**: TechStart Inc
+- **Estágio**: Series A (Fechou $10M em Janeiro 2024)
+- **Indústria**: B2B SaaS - Plataforma de desenvolvimento de agentes de IA
+- **Fundada**: 2022
+- **Sede**: San Francisco, CA
 
 ## Financial Snapshot
 - **Monthly Burn Rate**: $500,000
@@ -33,17 +33,21 @@
 - **LTV**: $85,000
 - **CAC Payback Period**: 10 months
 
-## Current Priorities (Q2 2024)
-1. **Hiring**: Add 10 engineers to accelerate product development
-2. **Product**: Launch AI code review feature by end of Q2
-3. **Sales**: Expand into European market
-4. **Fundraising**: Begin Series B conversations (target: $30M)
+## Prioridades Atuais (Q2 2024)
+1. **Contratação**: Adicionar 10 engenheiros especialistas em IA para acelerar desenvolvimento
+2. **Produto**: Lançar plataforma de agentes autônomos até fim do Q2
+3. **Vendas**: Expandir para mercado europeu
+4. **Fundraising**: Iniciar conversas Series B (meta: $30M)
 
-## Compensation Benchmarks
-- **Senior Engineer**: $180K - $220K + 0.1-0.3% equity
-- **Junior Engineer**: $100K - $130K + 0.05-0.1% equity
-- **Engineering Manager**: $200K - $250K + 0.3-0.5% equity
-- **VP Engineering**: $250K - $300K + 0.5-1% equity
+## Benchmarks de Compensação (Brasil Remote - CLT/PJ)
+- **Engenheiro IA Sênior**: R$ 17.500/mês (R$ 210K/ano)
+- **Engenheiro IA Júnior**: R$ 12.000/mês (R$ 144K/ano)
+- **ML Engineer**: R$ 15.000/mês (R$ 180K/ano)
+- **Arquiteto de Agentes**: R$ 20.000/mês (R$ 240K/ano)
+- **VP Engineering**: R$ 25.000/mês (R$ 300K/ano)
+
+*Valores líquidos para PJ ou brutos para CLT*
+*Benefícios: VR/VA, plano de saúde, home office*
 
 ## Board Composition
 - **CEO**: Sarah Chen (Founder)
@@ -51,10 +55,10 @@
 - **Investor 2**: Jennifer Park (Andreessen Horowitz)
 - **Independent**: Michael Torres (Former CTO of GitHub)
 
-## Competitive Landscape
-- **Main Competitors**: DevTools AI, CodeAssist Pro, SmartDev Inc
-- **Our Differentiation**: Superior AI accuracy, 10x faster processing
-- **Market Size**: $5B (growing 25% annually)
+## Panorama Competitivo
+- **Principais Concorrentes**: LangChain Inc, AutoGPT Corp, CrewAI Systems
+- **Nossa Diferenciação**: Melhor orquestração multi-agente, integração nativa com Claude
+- **Tamanho do Mercado**: $8B em desenvolvimento de agentes de IA (crescendo 40% anualmente)
 
 ## Recent Decisions
 - Approved hiring 3 senior backend engineers (March 2024)
@@ -74,22 +78,33 @@
 - Increasing competition from Big Tech
 - Potential economic downturn impact on enterprise sales
 
-## Available Scripts
+## Scripts Disponíveis
+
+### ai_expertise_evaluator.py
+Avaliador de expertise técnica em desenvolvimento de agentes de IA.
+Script localizado em `./scripts/ai_expertise_evaluator.py`
+
+**Uso:**
+```bash
+python scripts/ai_expertise_evaluator.py --candidate-json '{"name":"João","llm_apis":["openai"]}'
+```
+
+### talent_scorer.py
+Algoritmo de pontuação de candidatos.
+Script localizado em `./scripts/talent_scorer.py`
+
+**Uso:**
+```bash
+python scripts/talent_scorer.py --evaluate <candidate_data>
+```
 
 ### simple_calculation.py
-Quick financial metrics calculator for runway and burn rate analysis.
-Script located at `./scripts/simple_calculation.py`
+Calculadora rápida de métricas financeiras.
+Script localizado em `./scripts/simple_calculation.py`
 
-**Usage:**
+**Uso:**
 ```bash
 python scripts/simple_calculation.py <total_runway> <monthly_burn>
 ```
 
-**Example:**
-```bash
-python scripts/simple_calculation.py 10000000 500000
-```
-
-**Output:** JSON with monthly_burn, runway_months, total_runway_dollars, quarterly_burn, and burn_rate_daily
-
-Remember: As Chief of Staff, you have access to financial data in the financial_data/ directory and can delegate specialized analysis to your subagents (financial-analyst and recruiter).
+Lembre-se: Como Chief of Staff, você tem acesso aos dados da empresa no diretório financial_data/ e pode delegar análises especializadas para seus subagentes (cto e recrutador).

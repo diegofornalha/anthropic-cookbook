@@ -1,16 +1,16 @@
 ---
-name: budget-impact
-description: Analyze the financial impact of a decision on budget, burn rate, and runway
+name: tech-assessment
+description: Avaliação técnica de candidatos ou decisões de arquitetura para desenvolvimento de agentes de IA
 ---
 
-Use the financial-analyst subagent to analyze the budget impact of: {{args}}
+Use o subagente cto para fazer uma avaliação técnica sobre: {{args}}
 
-Provide a comprehensive analysis including:
-1. Total cost (one-time and recurring)
-2. Impact on monthly burn rate
-3. Change in runway (months)
-4. ROI analysis if applicable
-5. Alternative options to consider
-6. Risk factors
+Forneça uma análise abrangente incluindo:
+1. Avaliação de expertise técnica (se for candidato)
+2. Stack tecnológica e frameworks relevantes
+3. Fit para desenvolvimento de agentes de IA
+4. Riscos técnicos identificados
+5. Recomendações de arquitetura ou contratação
+6. Necessidades de treinamento ou mentoria
 
-Format the response with clear sections and specific numbers. Include a final recommendation.
+Formate a resposta com seções claras e pontuação específica quando aplicável. Inclua uma recomendação final.

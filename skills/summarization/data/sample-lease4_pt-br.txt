@@ -1,0 +1,836 @@
+Source: https://www.sec.gov/Archives/edgar/data/1095600/000119312504210218/dex104.htm
+
+EX-10.4 5 dex104.htm COMMERCIAL SUBLEASE AGREEMENT
+Exhibit 10.4
+
+ 
+
+SUBLEASE AGREEMENT
+
+ 
+
+este Sublease Agreement (“Sublease”) is made effective as of the 7th dia of October, 2004, (the “Effective data”) by e entre Blue Coat Systems, a Delaware corporation (“Sublessor”), e Infoblox Inc., a Delaware corporation (“Sublessee”). Sublessor agrees para sublease para Sublessee, e Sublessee agrees para sublease de Sublessor, aqueles certain premises situated in the City of Sunnyvale, County of Santa Clara, State of California, consisting of aproximadamente 45,823 square feet of space known as 475-477 Potrero Avenue, mais particularly set forth on Exhibit “A” hereto (the “Subleased Premises”).
+
+ 
+
+ARTICLE 1
+
+ 
+
+MASTER LEASE e OTHER AGREEMENTS
+
+ 
+
+1.1 Subordinate para Master Lease. Except as specifically set forth herein, este Sublease is subject e subordinate para todos of the terms e conditions of the lease (the “Lease”) dated as of March 20, 2001, entre Sunnyvale VIII Trust, a Maryland business trust (“Master Lessor”) e CacheFlow Inc., a Delaware corporation, agora known as Blue Coat Systems, as “Lessee”. The Lease is às vezes referred para herein as the “Master Lease”. Sublessee hereby assumes e agrees para perform the obligations of Lessee under the Master Lease as mais particularly set forth hereafter e Sublessor agrees para perform the obligations of Lessee under the Lease para the extent não assumed by Sublesee under este Sublease. Unless otherwise defined, todos capitalized terms used herein shall have the same meanings as given them in the Master Lease. A copiar of the Master Lease is attached hereto as Exhibit “A” e incorporated herein by este reference. com respect para the obligations assumed by Sublessee, Sublessee shall não commit ou permit para be committed any act ou omission qual would violate any term ou condition of the Master Lease. com respect para the obligations assumed by Sublessee, Sublessee shall neither do nor permit anything para be done qual would cause the Master Lease para be terminated ou forfeited by reason of any direita of termination ou forfeiture reserved ou vested in Master Lessor under the Master Lease. Sublessee e Sublessor shall each indemnify e hold the other harmless de e against todos liability, judgments, costs, demands, claims, e damages of any kind whatsoever (including, sem limitation, attorneys’ fees e court costs) by reason of any falha on the part of Sublessee para perform any of the obligations of Lessee under the Master Lease qual Sublessee e Sublessor are obligated hereunder para perform. In the event of the termination of Sublessor’s interest as Lessee under the Master Lease by Master Lessor, então este Sublease shall terminate automatically upon such termination sem any liability of Master Lessor ou Sublessor para Sublessee. se ali is any direita para terminate the Lease on the part of Lessee under the Master Lease, para the extent Master Lessor consents para the assignment by Sublessor of such direita para terminate, such direita is hereby assigned para Sublessee e only Sublessee, e não Sublessor, may exercise such direita. Sublessee represents e warrants para Sublessor aquele it has ler e is familiar com the Master Lease.
+
+ 
+
+1.2 Applicable Provisions. todos of the terms e conditions contained in the Master Lease as they may apply para the Subleased Premises, except aqueles directly contradicted by the terms e conditions contained in Este documento, e specifically except for Sections 1, 2, 3, 4, 5, 6(e), 8, 9, 13(a), 21, 29, 30, 31, 36, 41, 42, 43, 51, Exhibits C, e C-1 through C-3, e
+
+Exhibit D are incorporated herein e shall be terms e conditions of este Sublease (com each reference therein para “Landlord” ou “Lessor”, “Tenant” ou “Lessee” e “Lease” para be deemed para refer para Sublessor, Sublessee, e Sublease, respectively, as appropriate except O seguinte provisions aquele are incorporated herein, the reference para Landlord ou Lessor shall mean Master Lessor only: Sections 19 e 10(e)-(f)), e along com todos of O seguinte terms e conditions set forth in Este documento, shall constitute the completo terms e conditions of este Sublease.
+
+ 
+
+1.3 Obligations of Sublessor. The only services ou rights para qual Sublessee is entitled hereunder de Master Lessor are aqueles para qual Sublessor is entitled under the Master Lease, e for todos such services e rights Sublessee shall look solely para the Master Lessor under the Master Lease, e the obligations of Sublessor hereunder shall be limited para using its reasonable good faith efforts para obtain the desempenho by Master Lessor of its obligations. Should Sublessor be unable para obtain any desempenho by Master Lessor, Sublessor hereby assigns para Sublessee the direita para seek para obtain such desempenho, such direita para include legal action against Master Lessor. Sublessor shall have no liability para Sublessee ou any other person for damage of any nature whatsoever as a resultado of the falha of Master Lessor para perform said obligations except for Master Lessor’s termination of the Sublessor’s interest as Lessee under the Master Lease in the event of Sublessor’s breach of the Master Lease, e Sublessee shall indemnify e hold Sublessor harmless de any e todos claims e liability whatsoever for any such damage (unless such damage is caused by Sublessor’s breach of the Master Lease) including, sem limitation, todos costs e attorneys’ fees incurred in defending against same. com respect para any obligation of Sublessee para be performed under este Sublease other than a monetary obligation, quando the Master Lease grants Sublessor a specific número of days para perform its obligations thereunder, Sublessee shall have two (2) fewer days para perform, provided aquele se Sublessor is in receipt of a notice of padrão de Master Lessor, Sublessor agrees para promptly transmit such notice by facsimile para Sublessee, attention: Eric Carlsen at (408) 716-4400 e Sublessee shall have two (2) fewer days than the número of days specified in such notice ou the número of days para perform as provided in the Master Lease. com respect para any monetary obligation of Sublessee para be performed under este Sublease, Sublessee shall make the payments on ou antes the data aquele such payment is due. com respect para approval obrigatório para be obtained de “Landlord” under the Master Lease, such consent must be obtained de Master Lessor e Sublessor e the approval of Sublessor may be withheld se Master Lessor’s consent is não obtained.
+
+ 
+
+ARTICLE 2
+
+ 
+
+TERM
+
+ 
+
+2.1 Term. The term of este Sublease shall commence on the data Sublessee fully executes e delivers este Sublease para Sublessor accompanied by the segurança Deposit e the Letter of Credit (qual Letter of Credit may be delivered within ten (10) days depois such full execution) obrigatório pursuant para Section 4.2 hereof, e provide copies of todos licenses e authorizations aquele may be obrigatório for the lawful operation of Sublessee’s business upon the Premises, including, sem limitation, any business licenses aquele may be obrigatório by the City of Sunnyvale. este shall be referred para as the “Commencement data.” The Rent shall commence on October 15, 2004 (the “Rent Commencement data”). The term of este Sublease shall end on June 30, 2006, unless sooner terminated pursuant para any provision of the Master Lease applicable para the Subleased Premises (the “Expiration data”). Sublessor shall have no obligation para Sublessee para exercise any of its opções para extend under the Master Lease.
+
+ 
+
+-2-
+
+2.2 Option para Extend. Sublessee shall have no option para extend este Sublease.
+
+ 
+
+2.3 Sublessee’s Early Occupancy of the Subleased Premises. se Sublessee, com Sublessor’s consent, takes possession prior para Rent Commencement data, Sublessee shall do so subject para todos the covenants e conditions hereof, e Sublessee shall não be obrigatório para pay Rent for such early possession prior para the Rent Commencement data.
+
+ 
+
+ARTICLE 3
+
+ 
+
+RENT
+
+ 
+
+3.1 Rent. Commencing on the Rent Commencement data, Sublessee shall pay para Sublessor each mês durante the term of este Sublease, rent in the quantidade of Twenty Three Thousand Eight Hundred Twenty Seven e 96/100 Dollars ($23,827.96), in advance, on execution hereof for the primeiro mês e on ou antes the primeiro of each mês thereafter (“Base Rent”). Rent for partial months at the commencement ou termination of este Sublease shall be prorated. Rent shall be paid para the Sublessor at its business address noted herein, ou at any other place Sublessor may de tempo para tempo designate by written notice mailed ou delivered para Sublessee.
+
+ 
+
+3.2 Additional Rent. se Sublessee shall procure any additional services de Master Lessor, ou se additional rent ou other sums are incurred for Sublessee’s sole benefit, Sublessee shall make such payment para Sublessor ou Master Lessor, as Sublessor shall direct e such charges shall não be pro rated entre Sublessor e Sublessee. Any other rent ou other sums payable by Sublessee under este Article 3 shall constitute e be due as additional rent. Base Rent e additional rent shall herein be referred para as “Rent”.
+
+ 
+
+3.3 Operating Expenses. este Sublease shall be gross in nature. Sublessee shall be responsible for utilities e janitorial costs. todos other operating expenses under the Master Lease shall be the responsibility of Sublessor.
+
+ 
+
+ARTICLE 4
+
+ 
+
+segurança DEPOSIT
+
+ 
+
+4.1 segurança Deposit. Upon execution hereof, Sublessee shall deposit com Sublessor the sum of Twenty Three Thousand Eight Hundred Twenty Seven e 96/100 Dollars ($23,827.96) as e for a segurança Deposit para secure Sublessee’s full e timely desempenho of todos of its obligations hereunder. se Sublessee fails para pay Rent ou any other sums as e quando due hereunder, ou otherwise defaults e/ou fails para perform com respect para any provision of este Sublease, Sublessor may (but shall não be obligated para) use, apply, ou retain todos ou any portion of said deposit for payment of any sum for qual Sublessee is obligated ou qual will compensate Sublessor for any loss ou damage qual Sublessor may suffer thereby e para qual Sublessor may be entitled by law, including, sem limitation, any damage aquele will resultado in the future through the term of the Sublease, para repair damage para the Subleased Premises, para limpar the
+
+ 
+
+-3-
+
+Subleased Premises at the end of the term ou for any loss ou damage caused by the act ou omission of Sublessee ou Sublessee’s officers, agents, employees, independent contractors ou invitees. Sublessee waives the provisions of California Civil Code Section 1950.7 e todos other provisions of law agora in force ou aquele become in force depois the data of execution of este Sublease aquele provide aquele Sublessor may claim de a segurança deposit only aqueles sums reasonably necessary para remedy defaults in the payment of Rent, para repair damage caused by Sublessee ou para limpar the Subleased Premises. Any such use, application, ou retention shall não constitute a waiver by Sublessor of its direita para enforce its other remedies hereunder, at law, ou in equity. se any portion of said deposit is so used, applied, ou retained, Sublessee shall, within ten (10) days depois entrega of written demand de Sublessor, restaurar said deposit para its original quantidade. Sublessee’s falha para do so shall constitute a material breach of este Sublease, e in such event Sublessor may elect, among ou in addition para other remedies, para terminate este Sublease. Sublessor shall não be a trustee of such deposit, e shall não be obrigatório para keep este deposit separate de its accounts. Sublessor alone shall be entitled para any interest ou earnings thereon e Sublessor shall have the free use of same. se Sublessee fully e faithfully performs todos of its obligations hereunder, então the deposit, menos any amounts used by Sublessor as permitted by Esta seção e não reimbursed by Sublessee, shall be returned para Sublessee (sem payment of interest ou earnings thereon) within 30 days depois the mais tarde of (i) expiration ou sooner termination of the term hereof, ou (ii) Sublessee’s surrender of possession of the Subleased Premises para Sublessor.
+
+ 
+
+4.2 Letter of Credit. Two (2) business days depois Sublessee’s receipt of a copiar of the Consent by Master Lessor para este Sublease, Sublessee shall provide para Sublessor an unconditional, limpar, irrevocable Letter of Credit (“Letter of Credit”) in the quantidade of Thirty Seven Thousand e no/100 Dollars ($37,000) in favor of Sublessor e issued by a bank (qual accepts deposits, maintains accounts e will negotiate a letter of credit, e whose deposits are insured by the FDIC) located in the Bay Area e reasonably acceptable para Sublessor (“Issuer”). The Letter of Credit shall (1) be fully transferable by Sublessor para a successor in its interest under este Sublease sem payment of transfer fees, (2) permit multiple drawings, e (3) provide aquele draws, including partial draws, at Sublessor’s election, will be honored upon the entrega para the Issuer a certificate signed by Sublessor, ou its authorized agent, aquele Sublessee is in padrão under este Sublease e aquele as a resultado thereof Sublessor is entitled para make the requested draw pursuant para the terms of the Sublease. The Letter of Credit is para be issued pursuant para ISP98 rather than UCP 500. se Sublessee fails para pay Rent ou any other sums as e quando due hereunder, ou otherwise defaults com respect para any provision of este Sublease, Sublessor may (but shall não be obligated para) use, apply ou retain todos ou any portion of the Letter of Credit for payment of any sum for qual Sublessee is obligated ou qual will compensate Sublessor for any loss ou damage qual Sublessor may suffer thereby. Any draw ou partial draw of the Letter of Credit shall não constitute a waiver by Sublessor of its direita para enforce its other remedies hereunder, at law ou in equity. se any portion of the Letter of Credit is drawn upon, Sublessee shall, within ten (10) days depois entrega of written demand de Sublessor, restaurar said Letter of Credit para its original quantidade. The Letter of Credit shall be in effect for the entire term of este Sublease plus sixty (60) days beyond the expiration of the Sublease term. The Letter of Credit will automatically renew each ano durante the Sublease term unless the beneficiary under the Letter of Credit is given at mínimo thirty (30) days prior notice of a non-renewal by the issuing bank, e Sublessor shall be able para draw on the Letter of Credit in the event of such notice. The parties agree aquele the provisions of Civil Code Sections 1950.7 e 1951.7 do não apply para the Letter of Credit.
+
+ 
+
+-4-
+
+ARTICLE 5
+
+ 
+
+CONDITION OF SUBLEASED PREMISES
+
+ 
+
+5.1 Condition of the Subleased Premises. Sublessee acknowledges aquele as of the Commencement data, the Subleased Premises, e every part thereof, are in good condition e sem need of repair, e Sublessee accepts the Subleased Premises “as is”, Sublessee having made todos investigations e testes it has deemed necessary ou desirable in order para establish para its own completo satisfaction the condition of the Subleased Premises. Sublessee accepts the Subleased Premises in their condition existing as of the Commencement data, subject para todos applicable zoning, municipal, county e state laws, ordinances, e regulations governing e regulating the use of the Subleased Premises e any covenants ou restrictions of record. Sublessee acknowledges aquele neither Sublessor nor Master Lessor have made any representations ou warranties as para the condition of the Subleased Premises ou its present ou future suitability for Sublessee’s purposes. Notwithstanding the foregoing, Sublessor shall deliver possession of the Subleased Premises para Sublessee professionally cleaned (qual shall consist of vacuuming the carpet e cleaning the windows) e the operating systems in good working condition, including but não limited para HVAC, electrical, elevator, plumbing, e lighting.
+
+ 
+
+5.2 Surrender. Sublessee shall keep the Subleased Premises, e every part thereof in at mínimo the same condition it was received de Sublessor, ordinary wear e tear excepted. Sublessee shall surrender the Subleased Premises in the same condition as received, ordinary wear e tear excepted, provided Sublessee performs todos necessary maintenance, repair e cleaning para maintain the Subleased Premises in the condition it was delivered at the Commencement data.
+
+ 
+
+ARTICLE 6
+
+ 
+
+INSURANCE
+
+ 
+
+6.1 Sublessee’s Insurance com respect para the Tenant’s insurance under the Master Lease, the same is para be provided by Sublessee as described in the Master Lease, e such policies of insurance shall include as additional insureds Master Lessor, Sublessor e any lender as obrigatório by Master Lessor.
+
+ 
+
+6.2 Waiver of Subrogation. com respect para the waiver of subrogation contained in the Master Lease, such waiver shall be deemed para be modified para constitute an agreement by e among Master Lessor, Sublessor e Sublessee (e Master Lessor’s consent para este Sublease shall be deemed para constitute its approval of este modification).
+
+ 
+
+-5-
+
+ARTICLE 7
+
+ 
+
+USE OF SUBLEASED PREMISES; PARKING; IMPROVEMENTS
+
+ 
+
+7.1 Use of Subleased Premises Sublessee shall occupy e use the Subleased Premises only for general office use, research e desenvolvimento e other legal related uses. Sublessee shall não allow the Premises para be used in any manner aquele is inconsistent ou prohibited under Section 6 of the Master Lease.
+
+ 
+
+7.2 Furniture, Fixture e Equipment (FF&E) Sublessee shall have use of todos of the existing wired cubicle systems, desks, chairs, office furniture, conference room furniture, filing cabinets, book shelves, white boards, kitchen appliances, networking systems, e phone handsets e phone system aquele atualmente exist in the Subleased Premises throughout the entire term of the Sublease at no additional cost para Sublessee. Sublessor shall provide a lista of furnishings, fixtures e equipment e attach it para este Sublease as Exhibit B. Sublessee accepts such FF&E “as is, onde is” com no warranty, e at termination of este Sublease shall deliver same atrás para Sublessor in the same condition as received, ordinary wear e tear excepted; provided, however, aquele se Sublessee enters into a lease com Master Lessor for the Subleased Premises para continue imediatamente depois the Expiration data, e se Sublessee is não otherwise in breach of este Sublease, the FF&E shall become the property of Sublessee on the Expiration data. Sublessee will insure the FF&E against casualty for its replacement value. Sublessor shall cooperate com Sublessee para permit Sublessee para be able para use such FF&E, by providing para Sublessee, para the extent same are available para Sublessor, todos manuals, instructions e other documents e information necessary ou convenient para the operation of such FF&E, including access codes, passwords e other keys para properly use such FF&E.
+
+ 
+
+7.3 Parking. So long as Sublessee is não in padrão e subject para the rules e regulations imposed de tempo para tempo by Master Lessor ou Sublessor, Sublessee shall have the direita para use todos of the parking spaces associated com the Premises as specified in the Master Lease.
+
+ 
+
+ARTICLE 8
+
+ 
+
+ASSIGNMENT, SUBLETTING & ENCUMBRANCE
+
+ 
+
+8.1 Consent obrigatório. Sublessee shall não assign este Sublease ou any interest therein nor shall Sublessee sublet, Licença, encumber ou permit the Subleased Premises ou any part thereof para be used ou occupied by others, sem Sublessor’s e Master Lessor’s prior written consent. Sublessor’s consent shall não be unreasonably withheld provided, however, Sublessor’s withholding of consent shall in todos events be deemed reasonable se for any reason Master Lessor’s consent is não obtained. The consent by Sublessor e Master Lessor para any assignment ou subletting shall não waive the need for Sublessee (e Sublessee’s assignee ou subtenant) para obtain the consent of Sublessor e Master Lessor para any different ou further assignment ou subletting. todos Conditions e Standards set forth in the Master Lease regarding assignments e subletting shall apply, e para the extent ali is any Bonus Rents (Rent paid by such Assignee ou SubSublessee in excess of Rent paid by Sublessee hereunder), the Bonus Rent shall primeiro be dividir per the Master Lease e any Bonus Rent para go para Sublessee shall be dividir 50/50 com Sublessor para be paid para Sublessor within five (5) days of receipt by Sublessee.
+
+ 
+
+-6-
+
+8.2 formulário of Document. Every assignment, agreement, ou sublease shall (i) recite aquele it is e shall be subject e subordinate para the provisions of este Sublease, aquele the assignee ou subtenant assumes Sublessee’s obligation hereunder, aquele the termination of este Sublease shall at Sublessor’s sole election, constitute a termination of every such assignment ou sublease, e (ii) contain such other terms e conditions as shall be reasonably requested ou provided by Sublessor’s attorneys.
+
+ 
+
+8.3 No lançamento of Sublessee. Regardless of Sublessor’s consent, no subletting ou assignment shall lançamento Sublessee of Sublessee’s obligation ou alter the primário liability of Sublessee para pay the Rent e para perform todos other obligations para be performed by Sublessee hereunder. The acceptance of Rent by Sublessor de any other person shall não be deemed para be a waiver by Sublessor of any provision hereof. In the event of padrão by any assignee, subtenant ou any other successor of Sublessee, in the desempenho of any of the terms hereof, Sublessor may proceed directly against Sublessee sem the necessity of exhausting remedies against such assignee, subtenant ou successor.
+
+ 
+
+8.4 padrão. An involuntary assignment shall constitute a padrão e Sublessor shall have the direita para elect para terminate este Sublease, in qual case este Sublease shall não be treated as an asset of Sublessee.
+
+ 
+
+ARTICLE 9
+
+ 
+
+padrão
+
+ 
+
+9.1 padrão Described. The occurrence of any of O seguinte shall constitute a material breach of este Sublease e a padrão by Sublessee: (i) falha para pay Rent ou any other quantidade within three (3) business days depois due; (ii) todos aqueles items of padrão set forth in the Master Lease qual remain uncured depois the cure period provided in the Master Lease; ou (iii) Sublessee’s falha para perform timely e subject para any cure periods any other material provision of este Sublease ou the Master Lease as incorporated herein.
+
+ 
+
+9.2 Sublessor’s Remedies. Sublessor shall have the remedies set forth in the Master Lease as se Sublessor is Master Lessor. estes remedies are não exclusive; they are cumulative e in addition para any remedies agora ou mais tarde allowed by law.
+
+ 
+
+9.3 Sublessee’s direita para Possession não Terminated. Sublessor has the remedy described in California Civil Code Section 1951.4 (lessor may continue lease in effect depois lessee’s breach e abandonment e recover rent as it becomes due, se lessee has direita para sublet ou assign, subject only para reasonable limitations). Sublessor may continue este Sublease in full force e effect, e Sublessor shall have the direita para collect rent e other sums quando due. durante the period Sublessee is in padrão, Sublessor may enter the Subleased Premises e relet them, ou any part of them, para third parties for Sublessee’s conta e alter ou instalar locks e other segurança devices at the Subleased Premises. Sublessee shall be liable imediatamente para Sublessor for todos costs Sublessor incurs e as permitted by law in reletting the Subleased
+
+ 
+
+-7-
+
+Premises, including, sem limitation, attorneys’ fees, brokers’ commissions, expenses of remodeling the Subleased Premises obrigatório by the reletting, e like costs. Reletting may be for a period equal para, shorter ou longer than the remaining term of este Sublease e rent received by Sublessor shall be applied para (i) primeiro, any indebtedness de Sublessee para Sublessor other than rent due de Sublessee; (ii) segundo, todos costs incurred by Sublessor in reletting, including, sem limitation, brokers’ fees ou commissions e attorneys fees, the cost of removing e storing the property of Sublessee ou any other occupant, e the costs of repairing, altering, maintaining, remodeling ou otherwise putting the Subleased Premises into condition acceptable para a novo Sublessee ou Sublessees; (iii) third, rent due e unpaid under este Sublease. depois deducting the payments referred para in este subsection 9.3, any sum remaining de the rent Sublessor receives de reletting shall be held by Sublessor e applied in payment of future rent e other amounts as rent e such amounts become due under este Sublease. In no event shall Sublessee be entitled para any excess rent received by Sublessor.
+
+ 
+
+9.4 todos Sums Due e Payable as Rent. Sublessee shall also pay sem notice, ou onde notice is obrigatório under este Sublease, imediatamente upon demand sem any abatement, deduction, ou setoff, as additional rent todos sums, impositions, costs, expenses, e other payments qual Sublessee in any of the provisions of este Sublease assumes ou agrees para pay, e, in case of any nonpayment thereof, Sublessor shall have, in addition para todos other rights e remedies, todos the rights e remedies provided for in este Sublease ou by law in the case of nonpayment of rent.
+
+ 
+
+9.5 No Waiver. Sublessor may accept Sublessee’s payments of menos than full quantidade of rent due sem waiving any rights under the Sublease, including rights under a previously served notice of padrão. So long as ali is a padrão hereunder, no payment by Sublessee ou receipt by Sublessor of a lesser quantidade than any installment of rent due ou other sums shall be deemed as other than a payment on conta of the quantidade due, nor shall any endorsement ou statement on any verificar ou accompanying any verificar ou payment be deemed an accord e satisfaction; e Sublessor may accept such verificar ou payment sem prejudice of Sublessor’s direita para recover the balance of such rent ou other sum ou pursue any other remedy provided in este Sublease, at law ou in equity. se Sublessor accepts payments depois serving a notice of padrão, Sublessor may nevertheless commence e pursue an action para enforce rights e remedies under the previously served notice of padrão sem giving Sublessee any further notice ou demand. Furthermore, the Sublessor’s acceptance of rent de Sublessee quando the Sublessee is holding over sem express written consent does não convert Sublessee’s tenancy de a tenancy at sufferance para a mês-para-mês tenancy. No waiver of any provision of este Sublease shall be implied by any falha of Sublessor para enforce any remedy for the violation of aquele provision, even se aquele violation continues ou is repeated. Any waiver by Sublessor of any provision of este Sublease must be in writing. Such waiver shall affect only the provisions specified e only for the tempo e in the manner stated in the writing. No delay ou omission in the exercise of any direita ou remedy by Sublessor shall impair such direita ou remedy ou be construed as a waiver thereof by Sublessor. No act ou conduct of Sublessor, including, sem limitation the acceptance of keys para the Subleased Premises shall constitute acceptance ou the surrender of the Subleased Premises by Sublessee antes the Expiration data. Only written notice de Sublessor para Sublessee of acceptance shall constitute such acceptance ou surrender of the Subleased Premises. Sublessor’s consent para ou approval of any act by Sublessee qual requires Sublessor’s consent ou approval shall não be deemed para waive ou render unnecessary Sublessor’s consent para ou approval of any subsequent act by Sublessee.
+
+ 
+
+-8-
+
+9.6 Sublessor padrão. For purposes of este Sublease, Sublessor shall não be deemed in padrão hereunder unless e until Sublessee shall primeiro deliver para Sublessor written notice of such padrão, e Sublessor shall fail para promptly cure said padrão ou para commence para cure said padrão e thereafter diligently prosecute the same para completion
+
+ 
+
+9.7 Notice of Event of padrão under Master Lease. Sublessor shall notify Sublessee of any Event of padrão under the Master Lease, ou of any other event of qual Sublessor has actual knowledge qual will impair Sublessee’s ability para conduct its normal business at the Subleased Premises, as em breve as reasonably practicable following Sublessor’s receipt of notice de Master Lessor of an Event of padrão ou Sublessor’s actual knowledge of such impairment.
+
+ 
+
+ARTICLE 10
+
+ 
+
+CONSENT OF MASTER LESSOR
+
+ 
+
+10.1 Precondition. The Master Lease requires aquele Sublessor obtain the consent of Master Lessor para any subletting by Sublessor. este Sublease shall não be effective unless e until Master Lessor signs a consent para este subletting satisfactory para Sublessor.
+
+ 
+
+ARTICLE 11
+
+ 
+
+MISCELLANEOUS
+
+ 
+
+11.1 Conflict com Master Lease; Interpretation. In the event of any conflict entre the provisions of the Master Lease e este Sublease, the Master Lease shall govern e control except para the extent directly contradicted by the terms of este Sublease. No presumption shall apply in the interpretation ou construction of este Sublease as a resultado of Sublessor having drafted the whole ou any part hereof.
+
+ 
+
+11.2 Remedies Cumulative. The rights, privileges, elections, e remedies of Sublessor in este Sublease, at law, e in equity are cumulative e não alternativo.
+
+ 
+
+11.3 Waiver of Redemption. Sublessee hereby expressly waives any e todos rights of redemption para qual it may be entitled by ou under any present ou future laws in the event Sublessor shall obtain a judgment for possession of the Subleased Premises.
+
+ 
+
+11.4 Damage e Destruction; Condemnation. In the event of any damage, destruction, casualty, condemnation ou threat of condemnation affecting the Subleased Premises, Rent payable hereunder shall be abated but only para the extent aquele Rent is abated under the Master Lease. Sublessee shall have no direita para terminate este Sublease in connection com any damage, destruction, casualty, condemnation ou threat of condemnation except para the extent the Master Lease is also terminated as para the Premises ou any portion thereof.
+
+ 
+
+11.5 Furniture. Sublessee may use certain furniture e furnishings located in the Subleased Premises as set forth on Exhibit C (“Furniture”). Sublessee accepts the Furniture in its “as is” condition e Sublessor makes no warranty as para the condition of the Furniture ou its present ou future suitability for Sublessee’s purposes. Subject para the provisions of section 7.2, upon termination of este Sublease, Sublessee shall retorna the Furniture para Sublessor in the same
+
+ 
+
+-9-
+
+condition as received, ordinary wear e tear excepted conditioned on the obligation of Sublessee para use the Furniture in a careful e proper manner e para limpar e repair the Furniture in the manner necessary para maintain the Furniture in the condition it was initially provided para Sublessee. Sublessee shall be liable for any damage para the Furniture e solely responsible for todos costs associated com the maintenance, cleaning e repair of the Furniture.
+
+ 
+
+11.6 Signage. Sublessee may place signs on ou sobre the Subleased Premises in compliance com Section 18 of the Master Lease. todos signs shall be at Sublessee’s sole cost e shall comply com todos local, federal e state rules, regulations, statutes, e ordinances at todos times durante the term hereof. Sublessee, at Sublessee’s cost, shall remover todos such signs e graphics prior para the termination of este Sublease e repair any damage caused by such removal. Sublessor shall, at its expense, remover its signs on the Premises prior para the Commencement data of este Sublease.
+
+ 
+
+11.7 Offer. Preparation of este Sublease by either Sublessor ou Sublessee ou either parties’ agent e submission of same para Sublessor ou Sublessee shall não be deemed an offer para Sublease. este Sublease is não intended para be binding until executed e delivered by todos Parties hereto.
+
+ 
+
+11.8 Due Authority. se Sublessee signs as a corporation, each of the persons executing este Sublease on behalf of Sublessee represent e warrant aquele they have the authority para bind Sublessee, Sublessee has been e is qualified para do business in the State of California, aquele the corporation has full direita e authority para enter into este Sublease, e aquele todos persons signing on behalf of the corporation were authorized para do so by appropriate corporate actions. se Sublessee signs as a partnership, trust ou other legal entity, each of the persons executing este Sublease on behalf of Sublessee represent e warrant aquele they have the authority para bind Sublessee, Sublessee has complied com todos applicable laws, rules e governmental regulations relative para its direita para do business in the State of California e aquele such entity on behalf of the Sublessee was authorized para do so by any e todos appropriate partnership, trust ou other actions. Sublessee agrees para furnish promptly upon requisição a corporate resolution, proof of due autorização by partners, ou other appropriate Documentação evidencing the autorização of Sublessee para enter into este Sublease.
+
+ 
+
+11.9 Multiple Counterparts. este Sublease may be executed in two ou mais counterparts, qual quando taken together shall constitute one e the same instrument. The parties contemplate aquele they may be executing counterparts of este Sublease transmitted by facsimile e agree e intend aquele a signature by facsimile machine shall bind the party so signing com the same effect as though the signature were an original signature.
+
+ 
+
+11.10 Building Contaminants. para prevent the contamination, growth, ou deposit of any mold, mildew, bacillus, virus, pollen, ou other micro-organism (collectively, “Biologicals”) e the deposit, lançamento ou circulation of any indoor contaminants including emissions de paint, carpet e drapery treatments, cleaning, maintenance e construction materials e supplies, pesticides, pressed wood products, insulation, e other materials e products (collectively com Biologicals, “Contaminants”) aquele could adversely affect the health, safety ou welfare of any tenant, employee, ou other occupant of the Building ou their invitees (each, an “Occupant”), Sublessee shall, at Sublessee’s sole cost e expense, at todos times durante the term hereof
+
+ 
+
+-10-
+
+(1) operate the Subleased Premises in such a manner para reasonably prevent ou minimize the accumulation of stagnant water e moisture in planters, kitchen appliances e vessels, carpeting, insulation, water coolers, e any other locations onde stagnant water ou moisture could accumulate, e (2) otherwise operate the Subleased Premises para prevent the generation, growth, deposit, lançamento ou circulation of any Contaminants.
+
+ 
+
+ARTICLE 12
+
+ 
+
+BROKER’S COMMISSIONS
+
+ 
+
+12.1 Commission. Sublessor e Sublessee represent e warrant para each other aquele each has dealt com O seguinte brokers CPS, A Commercial Real Estate empresa, Inc. (Sublessor’s Broker) e Cornish & Carey Commercial (Sublessee’s Broker) e com no other agent, finder, ou other such person com respect para este Sublease e each agrees para indemnify e hold the other harmless de any claim asserted against the other by any broker, agent, finder, ou other such person não identified acima as Sublessor’s Broker ou Sublessee’s Broker. The Commission para the Brokers is pursuant para separate agreement.
+
+ 
+
+ARTICLE 13
+
+ 
+
+NOTICES e PAYMENTS
+
+ 
+
+13.1 Certified Mail. Any notice, demand, requisição, consent, approval, submittal ou communication aquele either party desires ou is obrigatório para give para the other party ou any other person shall be in writing e either served personally ou sent by prepaid, primeiro-classe certified mail ou commercial overnight entrega service. Such Notice shall be effective on the data of actual receipt (in the case of personal service ou commercial overnight entrega service) ou two days depois deposit in the United States mail, para O seguinte addresses:
+
+ 
+
+para the Sublessor:	  	Blue Coat Systems
+ 	  	650 Almanor Avenue
+ 	  	Sunnyvale, CA 94085
+ 	  	Attention: Director of Facilities e Real Estate
+para the Sublessee:	  	At the Subleased Premises, whether ou não Sublessee has abandoned ou vacated the Subleased Premises ou notified the Sublessor of any other address
+com a copiar para:	  	Berliner Cohen
+ 	  	10 Almaden Blvd., Suite 1100
+ 	  	San Jose, CA 95113-2233
+ 	  	Attention: Eric Wong, Esq.
+ 
+
+13.2 quando este Sublease requires service of a notice, aquele notice shall substituir rather than supplement any equivalent ou similar statutory notice, including any notices obrigatório by Code of Civil Procedure Section 1161 ou any similar ou successor statute. quando a statute requires service of a notice in a particular manner, service of aquele notice (ou a similar notice obrigatório by este Sublease) shall substituir e satisfy the statutory service-of-notice procedures, including aqueles obrigatório by Code of Civil Procedure Section 1162 ou any similar ou successor statute
+
+ 
+
+-11-
+
+ARTICLE 14
+
+ 
+
+ATTORNEYS’ FEES e COSTS
+
+ 
+
+14.1 Sublessor Made Party para Litigation. se Sublessor ou Sublessee becomes a party para any litigation brought by someone other than the other party e concerning este Sublease, the Subleased Premises, ou the other party’s use e occupancy of the Subleased Premises para the extent, based upon any real ou alleged act ou omission of such other party ou its authorized representatives, such other party shall be liable para the primeiro party for reasonable attorneys’ fees e court costs incurred by the other in the litigation.
+
+ 
+
+14.2 Certain Litigation entre the Parties. In the event any action ou proceeding at law ou in equity ou any arbitration proceeding be instituted by either party, for an alleged breach of any obligation of Sublessee under este Sublease, para recover rent, para terminate the tenancy of Sublessee at the Subleased Premises, ou para enforce, protect, ou establish any direita ou remedy of a party para este Sublease Agreement, the prevailing party (by judgment ou settlement) in such action ou proceeding shall be entitled para recover as part of such action ou proceeding such reasonable attorneys’ fees, expert witness fees, e court costs as may be fixed by the court ou jury, but este provision shall não apply para any cross-complaint filed by anyone other than Sublessor in such action ou proceeding.
+
+ 
+
+14.3 Sublessor’s Costs. In any case onde Sublessee requests permission de Sublessor para assign, sublet, make alterations, ou receber any other consent ou obtain any waiver de ou modification para the terms of este Sublease, Sublessee shall pay para Sublessor a reasonable administrative charge e Sublessor’s reasonable attorney’s fees incurred by Sublessor in reviewing such requisição.
+
+ 
+
+ARTICLE 15
+
+ 
+
+EXHIBITS
+
+ 
+
+15.1 Exhibits e Attachments. todos exhibits e attachments para este Sublease are a part hereof.
+
+ 
+
+-12-
+
+IN WITNESS WHEREOF, Sublessor e Sublessee have executed e delivered este Sublease on the data primeiro set forth acima.
+
+ 
+
+SUBLESSOR	 	SUBLESSEE
+Blue Coat Systems, a Delaware corporation	 	Infoblox Inc., a Delaware corporation
+ 
+
+By:	 	
+ 
+
+    	By:	 	
+ 
+
+Its:	 	
+ 
+
+    	Its:	 	
+ 
+
+    	
+By:	 	
+ 
+
+    	By:	 	
+ 
+
+Its:	 	
+ 
+
+    	Its:	 	
+ 
+
+ 
+
+-13-
+
+Exhibit A
+
+ 
+
+[Attach Master Lease]
+
+ 
+
+Exhibit B
+
+ 
+
+Furniture:
+
+ 
+
+2 Brown chairs segundo floor
+
+1 dividir round tabela
+
+26 training tables
+
+19 black plastic chairs
+
+48 multi cor chairs
+
+2 chairs com writing tabela
+
+7 red chairs
+
+1 coffee tabela blue com wheels
+
+4 glass tables com stands
+
+2 lobby chairs
+
+1 coffee tabela /yellow on wheels
+
+1 sofa-blue/yellow on wheels
+
+2 dog chairs on wheels, 1 yellow/ blue, 1 red
+
+4 bookcases 4 shelf
+
+8 bookcases 5 shelf
+
+4 armazenamento racks, 8’
+
+2 armazenamento rack, 3’
+
+7 trash receptacles, red
+
+ 
+
+Conference rooms:
+
+ 
+
+66 Stylex chairs
+
+11 Phone stands
+
+(5) Tables 6’
+
+(1) tabela 7’
+
+(2) Tables 16’
+
+(4) 48” round tables
+
+ 
+
+Cubicles:
+
+ 
+
+186 8x8 cubicles – 5 additional cubes are utilized as printer stations
+
+2 additional cubes upstairs com column obstructions
+
+140 cubes are Allsteel
+
+51 cubes are Teknion
+
+ 
+
+segurança System:
+
+ 
+
+Building segurança System is Lenel Onguard 2000
+
+Stand-alone system w/6 cameras, PC based com difícil drive data armazenamento & CDROM vídeo capture
+
+Exterior doors e sliding doors upstairs are alarmed com proximity readers
+
+Fully programmable for alarm timing e segurança access levels
+
+segurança is Configuração in room # 125. System is expandable
+
+ 
+
+Other:
+
+ 
+
+Showers e lockers in downstairs restrooms
+
+Kitchen 1 Refrigerator, 1 freezer
+
+(4) 42” tables
+
+Folding tables 4’ (2), 5’ (8), 6’ (5)
+
+Two large mail rooms/copiar centers e 2 mail sorters
+
+Cabinets - 3 small, 8 large
+
+todos electrical circuits are clearly labeled; at the source & in the panels
+
+ 
+
+IT lab:
+
+ 
+
+Wiring para todos cubes, conference rooms, e other labs terminate in on row of racks
+
+Qty 4 – Fiber data connections para each lab
+
+Qty 4 – CAT5e data connections para each cube e conference room
+
+Qty 2 – Telecom lines (digital ou analog) para each cube e conference room
+
+Qty ? – 20 amp / 4 receptacles 110VAC power
+
+Qty ? – 30 amp 220VAC power
+
+5 tons of dedicated air conditioning
+
+ 
+
+Software Lab #1:
+
+ 
+
+Dedicated block terminated CAT5e data wiring entre racks e fiber termination rack (de IT lab)
+
+Qty 50 – Chasworth 19” racks e wire handlers (powder coated e grounded)
+
+Qty 50 – 20 amp / 4 receptacles 110VAC power
+
+15 tons of dedicated air conditioning
+
+ 
+
+Software Lab # 2:
+
+ 
+
+Dedicated block terminated CAT5e data wiring entre racks e fiber termination rack (de IT lab)
+
+Qty 36 – Chasworth 19” racks e wire handlers (powder coated e grounded)
+
+Qty 36 – 20 amp / 4 receptacles 110VAC power
+
+20 tons of dedicated air conditioning
+
+ 
+
+-16-
+
+Hardware Lab:
+
+ 
+
+Dedicated block terminated CAT5e data wiring entre racks e fiber termination rack (de IT lab)
+
+Qty 4 – Chasworth 19” racks e wire handlers (powder coated e grounded)
+
+Qty 4 – 20 amp / 4 receptacles 110VAC power
+
+Qty 2 – 30 amp 220VAC power
+
+7.5 tons of dedicated air conditioning
+
+ 
+
+Wiring (Other):
+
+ 
+
+Qty 8 – Dedicated 110VAC power e CAT5e data wiring in ceiling panels for wireless rede (4 upstairs e 4 downstairs)
+
+Qty 6 – In-Floor 110VAC power in expandable training room
+
+ 
+
+Telcom Equipment (Installed):
+
+ 
+
+Model: Avaya Definity R3
+
+Software licenses: 300
+
+DS1 cards: 3
+
+Digital ports: 144
+
+Analog ports: 48
+
+Handsets (6408): 66
+
+Handsets (6402): 5
+
+Handsets (6210): 14
+
+Handsets (Operator): 1
+
+ 
+
+vídeo Conferencing Equipment:
+
+ 
+
+Model: Polycom ViewStation 512MP
+
+Accessories:
+
+Qty 1 – IMUX ISDN Expansion módulo
+
+Qty 1 – remoto Control
+
+Qty 2 – Sony Trinitron 32” Televisions
+
+Qty 2 – Black Television Stands
+
+ 
+
+-17-
+
+LANDLORD’S CONSENT para SUBLEASE
+
+(Blue Coat Systems/ Infoblox Inc.)
+
+ 
+
+SUNNYVALE VIII TRUST, a Maryland business trust (“Landlord”), landlord under aquele certain Lease Agreement dated March 30, 2001 (the “Master Lease”), by e entre Landlord e, CACHEFLOW INC., a Delaware corporation agora known as BLUE COAT SYSTEMS (“Tenant”) hereby consents para the subleasing of a portion of the Premises (as defined in the Master Lease) by Tenant, as sublessor, para INFOBLOX INC., a Delaware corporation (“Subtenant”) as subtenant, specifically under the terms e com respect para such subleased premises (the “Sublease Premises”) as described in the Sublease Agreement dated as of October     , 2004 attached hereto as Exhibit A (the “Sublease”) by e entre Tenant e Subtenant, subject para O seguinte:
+
+ 
+
+1. Occupancy of the Sublease Premises by Subtenant is in todos respects subject para the Master Lease, e Landlord hereby informs Tenant e Subtenant aquele Landlord requires strict compliance by Tenant e Subtenant com todos the terms e conditions of the Master Lease. Neither the Sublease nor este consent shall lançamento ou discharge Tenant de any liability under the Master Lease e Tenant shall remain liable e responsible for the full desempenho e observance of todos of the provisions, covenants, e conditions set forth in the Master Lease on the part of Tenant para be performed e observed. The breach ou violation of any provision of the Master Lease by Subtenant shall constitute a padrão by Tenant in fulfilling such provision e any breach of the Master Lease by either Tenant ou Subtenant shall entitled Landlord para todos the rights e remedies provided in the Master Lease in the event of a breach, e any other available remedy, against both Tenant e Subtenant.
+
+ 
+
+2. este consent shall não be construed as approval ou consent para any provision(s) of the Sublease qual may conflict com ou be interpreted para restrict Landlord’s rights ou Tenant’s obligations under the Master Lease, ou para expand upon Tenant’s rights ou Landlord’s obligations under the Master Lease, e Landlord shall não be bound ou estopped in any way by the provisions of the Sublease, including any provision qual purports para bind Landlord in any way contrary para the terms of the Master Lease; provided, aquele as set forth in Section 6.2 Waiver of Subrogation, the waiver of subrogation set forth in the Master Lease shall apply among Landlord, Tenant e Subtenant. este consent shall não criar in Subtenant, as a third party beneficiary ou otherwise, any rights except as specifically set forth herein. todos communications com Landlord will be recognized by Landlord only se made by Tenant, não Subtenant, including sem limitations requests for approvals as obrigatório under the Master Lease. Tenant hereby appoints Subtenant as Tenant’s agent for the purpose of communicating com Landlord com regard para matters arising in the ordinary course of tenancy (e.g. parking matters, depois hours HVAC Requisitos, excess janitorial services, ordinary repairs e maintenance), e notwithstanding the provisions of the imediatamente preceding sentence, Landlord agrees para recognize Subtenant as Tenant’s agent com respect para such matters e para communicate com Subtenant, as agent for Tenant, com respect para such matters. Tenant hereby agrees aquele Landlord may rely on Subtenant’s authority as Tenant’s agent com respect para any matter qual may be reasonably understood para fall within the foregoing description of Subtenant authority.
+
+ 
+
+Blue Coat Systems (Cacheflow)/Infoblox Sublease Consent
+
+477 Potrero – Central Research Park
+
+ 
+
+1
+
+3. Upon the expiration ou earlier termination of the term of the Master Lease the Sublease shall terminate as of the effective data (“Termination data”) of such expiration ou termination e Subtenant shall vacate the Sublease Premises on ou antes the Termination data. Notwithstanding anything para the contrary contained in the Sublease, Landlord shall não have any liability para Subtenant (e the Sublease shall terminate as of the Termination data as provided herein) in the event Tenant elects para terminate the Master Lease. In no event shall the foregoing be construed para grant para Tenant any direita para terminate the Master Lease.
+
+ 
+
+4. Subtenant shall be bound by the use provisions set forth in Section 6 of the Master Lease.
+
+ 
+
+5. Tenant’s indemnity obligations under Section 14 of the Master Lease shall include any liabilities qual arise by virtue of the Sublease ou Subtenant’s occupancy of the Sublease Premises. Notwithstanding anything para the contrary contained in the Sublease, Subtenant agrees aquele the terms e conditions of Section 14 of the Master Lease shall apply para Subtenant as though Subtenant were the Tenant e Landlord the Landlord modified as appropriate so as para make such terms applicable only para Subtenant’s leasing of the Sublease Premises.
+
+ 
+
+6. Landlord shall charge Tenant, e Tenant shall pay, todos costs incurred by Landlord in connection com the approval of the Sublease, including reasonable attorneys, architects ou consultants’ fees ou costs (up para a máximo of Three Thousand Dollars ($3,000.00), e Subtenant’s move into, improvement of e occupancy of the Sublease Premises pursuant para the terms of Section 21 of the Master Lease. Invoices com respect para the costs chargeable para Tenant under este Paragraph 6 shall be addressed para Tenant in care of Subtenant at the Sublease Premises, copiar para Tenant.
+
+ 
+
+7. Nothing in the Sublease shall limit Tenant’s obligation for Additional Rent due for the Sublease Premises under Section 5 of the Master Lease. Tenant will be charged for any utilities ou other services furnished by Landlord para the Sublease Premises for Subtenant in accordance com Section 7 of the Master Lease e shall remain liable for todos utilities provided directly para the Sublease Premises as set forth in said Section 7.
+
+ 
+
+8. Subtenant is não entitled para occupy any space other than the Sublease Premises, e any additional extensão ou addition of space shall require Landlord’s prior additional written consent. Notwithstanding any provision of the Sublease para the contrary, Subtenant shall não be permitted para occupy the Sublease Premise until depois full execution e entrega of este Consent.
+
+ 
+
+9. Notwithstanding anything para the contrary in the Sublease, the provisions of the Master Lease regarding Alterations ou improvements para the Premises shall apply para any Alterations ou improvements made para the Sublease Premises. este consent shall não
+
+ 
+
+Blue Coat Systems (Cacheflow)/Infoblox Sublease Consent
+
+477 Potrero – Central Research Park
+
+ 
+
+2
+
+serve as Landlord’s approval of any Alterations proposed in the Sublease. para the extent não previously approved by Landlord in writing, Landlord will approve ou disapprove any proposed Alterations depois execution of este consent by Tenant e Subtenant upon Landlord’s review of the plans for the proposed Alterations e in accordance com Section 11 of the Master Lease. Any such Landlord approval shall não be (ou be deemed para be) relied upon by Tenant, Subtenant ou any third party com respect para the adequacy of such plans ou compliance of the improvements described therein com any governmental rule ou regulation.
+
+ 
+
+10. este consent does não extend para, e expressly excludes, consent para (a) any portion of the Sublease term aquele extends beyond the present term of the Master Lease, (b) any renewal ou extensão of the Sublease term, ou (c) any expansion of the Sublease Premises. Any of the foregoing shall be conditioned upon Landlord’s express prior written consent thereto at the appropriate tempo as se for a novo subletting.
+
+ 
+
+11. In consideration of Landlord’s consent para the Sublease, Subtenant agrees aquele Landlord e the holders (“Holders”) of any mortgage, deed of trust ou like encumbrance affecting any part of the Premises, the Property (as defined in the Master Lease) ou any of the improvements located thereon (the “Improvements”)(the Premises, the Property, e the Improvements are herein collectively referred para as the “Landlord’s Property”) ou any interest of Landlord therein qual is agora existing ou hereafter executed ou recorded, any present ou future modification, amendment ou supplement para any of the foregoing, e para any advances made thereunder (any of the foregoing being a “Superior Interest”) shall não be liable para Subtenant, e Subtenant hereby waives todos claims against such parties, for any loss, injury ou other damage para person ou property in ou sobre the Sublease Premises ou the Landlord’s Property de any cause whatsoever other than such parties’ gross negligence ou willful misconduct, e Subtenant further agrees aquele Landlord e the Holders shall in no event be liable for any consequential ou resulting damages ou lost profits ou lost revenue. Except para the extent caused by Landlord’s gross negligence ou willful misconduct, Landlord shall não be liable for losses due para theft, vandalism ou like causes.
+
+ 
+
+12. Subtenant shall cause Landlord, Managing Agent, e any Holders (as identified by Landlord in writing para Subtenant) para be named as additional insured on the policy of commercial general liability insurance qual Subtenant carries pursuant para the Sublease e shall provide Landlord com such policy ou a certificate thereof upon commencement of the term of the Sublease e shall provide Landlord com a renewal policy ou certificate at mínimo thirty (30) days prior para the expiration data thereof.
+
+ 
+
+13. Tenant e Subtenant agree para indemnify, defend e hold Landlord harmless de e against any loss, cost, expense, damage ou liability, including reasonable attorneys’ fees, incurred as a resultado of a claim by any person ou entity based, upon the act ou omission of the indemnifying party, (a) aquele it is entitled para a commission, finder’s fee ou like payment in connection com the Sublease, ou (b) relating para ou arising out of the Sublease ou any related agreements ou dealings.
+
+ 
+
+Blue Coat Systems (Cacheflow)/Infoblox Sublease Consent
+
+477 Potrero – Central Research Park
+
+ 
+
+3
+
+14. Subtenant agrees aquele the Sublease shall at todos times be subject e subordinate para the direita, title e interest of the Holders of the Superior Interests, e any other document memorializing ou securing same, e Subtenant e Tenant agree para execute any such further subordination documents as such Holder may require pursuant para the terms of Section 38 of the Master Lease. sem limiting the generality of the foregoing, Tenant e Subtenant agree para comply com todos of the obligations e Requisitos of any present subordination, attornment e non-disturbance ou similar agreement by e entre any Holder, Landlord e Tenant.
+
+ 
+
+15. The foregoing consent shall apply only para the subject subletting e shall não be deemed para be consent para any other subletting nor para any subsubletting under the Sublease, nor shall este consent be construed para lançamento Tenant de any of its obligations under the Master Lease.
+
+ 
+
+16. Tenant e Subtenant e each person executing este Consent on behalf of them represents e warrants para Landlord aquele (a) each is duly incorporated (ou organized) e validly existing under the laws of its state of incorporation (ou organização), (b) each is qualified para do business in California, (c) each has full direita, power e authority para enter into este Consent e para perform todos of their obligations hereunder, e (d) the execution, entrega e desempenho of este Consent has been duly authorized by Tenant e Subtenant e each person signing este Consent on behalf of the of them is duly e validly authorized para do so.
+
+ 
+
+17. para facilitate execution hereof, este Consent may be executed in one ou mais counterparts as may be convenient ou obrigatório, e an executed copiar hereof delivered by facsimile shall have the effect of an original, executed instrument. todos counterparts hereof shall collectively constitute a single instrument; but, in making proof of este Consent, it shall não be necessary para produce ou conta for mais than one such counterpart. It shall não be necessary for the signature of, ou on behalf of each party hereto, ou aquele the signature of todos persons obrigatório para bind any such party, appear on each counterpart hereof. Each signature página para any counterpart hereof may be detached de such counterpart sem impairing the legal effect of the signatures thereon e thereafter attached para another counterpart hereof identical thereto except having attached para it additional signature pages.
+
+ 
+
+Blue Coat Systems (Cacheflow)/Infoblox Sublease Consent
+
+477 Potrero – Central Research Park
+
+ 
+
+4
+
+18. este consent is conditioned upon the signed acceptance by Tenant e Subtenant of the terms e conditions set forth herein.
+
+ 
+
+October     , 2004.
+
+ 
+
+Landlord: SUNNYVALE VIII TRUST,
+
+a Maryland business trust
+
+ 
+
+By:	 	
+ 
+
+ 	 	Gary E. Block
+Its:	 	Vice President
+ 
+
+ACCEPTANCE BY TENANT e SUBTENANT
+
+ 
+
+Tenant: BLUE COAT SYSTEMS, INC.
+
+a Delaware corporation
+
+    	
+Subtenant: INFOBLOX, INC.
+
+a Delaware corporation
+
+By:
+
+ 	
+ 
+
+    	By:	 	
+Its:
+
+ 	
+ 
+
+    	Its:	 	
+ 
+
+By:
+
+ 	
+ 
+
+    	By:	 	
+Its:
+
+ 	
+ 
+
+    	Its:	 	
+ 
+
+Blue Coat Systems (Cacheflow)/Infoblox Sublease Consent
+
+477 Potrero – Central Research Park
+
+ 
+
+5

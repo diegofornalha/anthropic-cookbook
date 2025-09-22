@@ -1,49 +1,54 @@
-# Chief of Staff Agent Architecture
+# Arquitetura do Agente Chief of Staff
 
 ```mermaid
 graph TD
-    User[User] --> Chief[Chief of Staff Agent]
+    User[Usuário] --> Chief[Chief of Staff Agent]
     Chief --> Memory[CLAUDE.md]
     Chief --> FinData[financial_data/]
-    Chief --> Tools
+    Chief --> Tools[Ferramentas]
     Chief --> Commands[Slash Commands]
     Chief --> Styles[Output Styles]
     Chief --> Hooks[Hooks]
 
     Tools --> Task[Task Tool]
-    Task --> FA[Financial Analyst]
-    Task --> Recruiter[Recruiter]
+    Task --> CTO[CTO - Diretor Técnico]
+    Task --> Recruiter[Recrutador]
 
-    FA --> Scripts1[Python Scripts]
-    Recruiter --> Scripts2[Python Scripts]
+    CTO --> Scripts1[Scripts Python IA]
+    Recruiter --> Scripts2[Scripts Python RH]
 
     style Chief fill:#f9f,stroke:#333,stroke-width:3px
     style Task fill:#bbf,stroke:#333,stroke-width:2px
-    style FA fill:#bfb,stroke:#333,stroke-width:2px
+    style CTO fill:#bfb,stroke:#333,stroke-width:2px
     style Recruiter fill:#bfb,stroke:#333,stroke-width:2px
 ```
 
-## Expected Agent Communication Flow
+## Fluxo de Comunicação Esperado entre Agentes
 
 ```mermaid
 sequenceDiagram
-    participant User
+    participant User as Usuário
     participant Chief as Chief of Staff
     participant Task as Task Tool
-    participant FA as Financial Analyst
-    participant Scripts as Python Scripts
+    participant CTO as CTO
+    participant Recruiter as Recrutador
+    participant Scripts as Scripts Python
     participant Hooks as Post-Write Hook
-    User->>Chief: /budget-impact hiring 5 engineers
-    Chief->>Chief: Expand slash command
-    Chief->>Task: Delegate financial analysis
-    Task->>FA: Analyze hiring impact
-    FA->>Scripts: Execute hiring_impact.py
-    Scripts-->>FA: Return analysis results
-    FA->>FA: Generate report
-    FA-->>Task: Return findings
-    Task-->>Chief: Subagent results
-    Chief->>Chief: Write report to disk
-    Chief->>Hooks: Trigger post-write hook
-    Hooks->>Hooks: Log to audit trail
-    Chief-->>User: Executive summary
+    User->>Chief: /tech-assessment candidato João Silva
+    Chief->>Chief: Expandir slash command
+    Chief->>Task: Delegar avaliação técnica
+    Task->>CTO: Avaliar expertise em IA
+    CTO->>Scripts: Executar ai_expertise_evaluator.py
+    Scripts-->>CTO: Retornar análise técnica
+    CTO->>CTO: Gerar relatório técnico
+    CTO-->>Task: Retornar avaliação
+    Task-->>Chief: Resultados do subagente
+    Chief->>Task: Consultar recrutador
+    Task->>Recruiter: Avaliar fit cultural
+    Recruiter-->>Task: Retornar perspectiva RH
+    Task-->>Chief: Consolidar análises
+    Chief->>Chief: Escrever relatório final
+    Chief->>Hooks: Acionar hook pós-escrita
+    Hooks->>Hooks: Registrar em audit trail
+    Chief-->>User: Recomendação executiva
 ```

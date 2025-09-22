@@ -60,21 +60,21 @@ async def send_query(
 
     Features automatically included/leveraged:
         - Memory: CLAUDE.md context loaded from chief_of_staff/CLAUDE.md
-        - Subagents: financial-analyst and recruiter via Task tool (defined in .claude/agents)
+        - Subagents: cto e recrutador via Task tool (defined in .claude/agents)
         - Custom scripts: Python scripts in tools/ via Bash
         - Slash commands: Expanded from .claude/commands/
         - Output styles: Custom output styles defined in .claude/output-styles
         - Hooks: Triggered based on settings.local.json, defined in .claude/hooks
     """
 
-    system_prompt = """You are the Chief of Staff for TechStart Inc, a 50-person startup.
+    system_prompt = """Você é o Chief of Staff da TechStart Inc, uma startup de 50 pessoas especializada em desenvolvimento de agentes de IA.
 
-        Apart from your tools and two subagents, you also have custom Python scripts in the scripts/ directory you can run with Bash:
-        - python scripts/financial_forecast.py: Advanced financial modeling
-        - python scripts/talent_scorer.py: Candidate scoring algorithm
-        - python scripts/decision_matrix.py: Strategic decision framework
+        Além das suas ferramentas e dois subagentes (cto e recrutador), você também tem scripts Python customizados no diretório scripts/ que pode executar com Bash:
+        - python scripts/ai_expertise_evaluator.py: Avaliação técnica de expertise em IA/ML
+        - python scripts/talent_scorer.py: Algoritmo de pontuação de candidatos
+        - python scripts/decision_matrix.py: Framework de decisão estratégica
 
-        You have access to company data in the financial_data/ directory.
+        Você tem acesso aos dados da empresa no diretório financial_data/.
         """
 
     # build options with optional output style

@@ -1,0 +1,39 @@
+Description: Sublease Agreement Summary: ConocoPhillips empresa para ZymoGenetics, Inc. Este documento summarizes a sublease agreement for office space in Seattle, Washington, entre ConocoPhillips empresa e ZymoGenetics, Inc., subject para the master lease com 1144 Eastlake LLC.
+
+<parties_involved>
+- Sublessor: ConocoPhillips empresa, a Delaware corporation
+- Sublessee: ZymoGenetics, Inc., a Washington corporation
+- Original Lessor: 1144 Eastlake LLC, a Washington limited liability empresa
+</parties_involved>
+
+<property_details>
+- Address: 1144 Eastlake Avenue E, Seattle, Washington 98109
+- Description: aproximadamente 7,128 rentable square feet of space on the 2nd floor (Suite 201) of the Building
+- Permitted use: General business office use
+</property_details>
+
+<term_and_rent>
+- iniciar data: mais tarde of October 1, 2005, ou data Sublessor delivers the Sublease Premises
+- End data: October 31, 2008
+- Monthly rent: Varies by period (e.g., $13,929.30 de 12/1/05 para 10/31/06)
+- segurança deposit: nenhum initially; $20,000 may be obrigatório se Sublessee defaults
+</term_and_rent>
+
+<responsibilities>
+- Utilities: Sublessee responsible for utilities
+- Maintenance e repairs: Sublessee responsible for interior, non-structural portions of the Premises
+- Operating expenses: Sublessee pays pro-rata share of expenses exceeding base ano (2005) costs
+</responsibilities>
+
+<consent_and_notices>
+- Landlord's consent: obrigatório e obtained de 1144 Eastlake LLC
+- Notice Requisitos: Written notices para be sent para specified addresses for each party
+</consent_and_notices>
+
+<special_provisions>
+- Furniture: Sublessee has use of existing furniture, fixtures, e equipment at no additional cost
+- Parking: Sublessee entitled para use 14 parking stalls in the Building e 3 additional stalls either in the Building ou nearby surface lots
+- Subletting restrictions: Sublessee may não assign ou sublet sem prior written consent de both Sublessor e Master Lessor
+- Signage: não specified in the sublease agreement
+- Insurance: Sublessee obrigatório para maintain comprehensive general liability insurance com $10,000,000 per occurrence limit
+</special_provisions>

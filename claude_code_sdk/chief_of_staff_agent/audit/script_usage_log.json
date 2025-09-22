@@ -1,34 +1,50 @@
 {
   "script_executions": [
     {
-      "timestamp": "2025-09-12T11:09:48.519841",
-      "script": "simple_calculation.py",
-      "command": "python scripts/simple_calculation.py 2904829 121938",
-      "description": "Run runway calculation with provided values",
+      "timestamp": "2025-09-22T08:23:26.838887",
+      "script": "ai_expertise_evaluator.py",
+      "command": "python3 /Users/2a/.claude/anthropic-cookbook/claude_code_sdk/chief_of_staff_agent/scripts/ai_expertise_evaluator.py --candidate-json '{\"name\":\"Pedro Silva\",\"years_experience\":6,\"ai_focused_years\":2,\"llm_apis\":[\"claude\",\"openai\",\"langchain\"],\"frameworks\":[\"langchain\",\"rag\"],\"languages\":[\"python\"],\"company_size\":\"startup_50\",\"industry\":\"fintech\"}'",
+      "description": "Avaliar expertise t\u00e9cnica do candidato Pedro Silva",
       "tool_used": "Bash",
       "success": true
     },
     {
-      "timestamp": "2025-09-12T11:12:16.209491",
-      "script": "simple_calculation.py",
-      "command": "python scripts/simple_calculation.py 2904829 121938",
-      "description": "Run runway calculation with $2.9M runway and $122K monthly burn",
+      "timestamp": "2025-09-22T08:25:18.049762",
+      "script": "ai_expertise_evaluator.py",
+      "command": "python3 /Users/2a/.claude/anthropic-cookbook/claude_code_sdk/chief_of_staff_agent/scripts/ai_expertise_evaluator.py --candidate-json '{\"name\":\"Ana Beatriz Costa\",\"years_experience\":10,\"ai_ml_years\":5,\"stack\":[\"Python\",\"LangChain\",\"CrewAI\",\"AutoGen\",\"Claude SDK\",\"OpenAI\",\"Pinecone\",\"ChromaDB\"],\"projects\":[\"framework open-source para orquestra\u00e7\u00e3o de agentes (3k stars)\",\"sistema RAG em produ\u00e7\u00e3o para 1M+ usu\u00e1rios\"],\"background\":\"Ex-Google AI (3 anos), consultora independente\",\"github_stats\":{\"repos\":150,\"followers\":2500},\"speaking\":[\"PyCon\",\"LangCon\"]}'",
+      "description": "Avaliar expertise t\u00e9cnica da candidata Ana Beatriz",
       "tool_used": "Bash",
       "success": true
     },
     {
-      "timestamp": "2025-09-12T11:23:02.810007",
-      "script": "simple_calculation.py",
-      "command": "python scripts/simple_calculation.py 10000000 500000",
-      "description": "Calculate financial metrics using our script",
+      "timestamp": "2025-09-22T08:26:11.522590",
+      "script": "ai_expertise_evaluator.py",
+      "command": "python3 scripts/ai_expertise_evaluator.py --candidate-json '{\"name\":\"Ana Beatriz Costa\",\"llm_apis\":[\"openai\",\"anthropic\",\"google\"],\"agent_frameworks\":[\"langchain\",\"crewai\",\"autogen\"],\"system_design\":10,\"code_quality\":9,\"ml_fundamentals\":9,\"production_experience\":10,\"innovation\":10}'",
+      "description": "Avaliar expertise t\u00e9cnica de Ana Costa com python3",
       "tool_used": "Bash",
       "success": true
     },
     {
-      "timestamp": "2025-09-12T11:27:59.994999",
-      "script": "hiring_impact.py",
-      "command": "python scripts/hiring_impact.py 3 200000",
-      "description": "Calculate hiring impact for 3 engineers at $200K",
+      "timestamp": "2025-09-22T08:27:47.942014",
+      "script": "ai_expertise_evaluator.py",
+      "command": "cd \"/Users/2a/.claude/anthropic-cookbook/claude_code_sdk/chief_of_staff_agent\" && python3 scripts/ai_expertise_evaluator.py --candidate-json '{\n  \"name\": \"Ana Beatriz Costa\",\n  \"llm_apis\": [\"openai\", \"anthropic\", \"google\"],\n  \"agent_frameworks\": [\"langchain\", \"crewai\", \"autogen\", \"claude_sdk\"],\n  \"distributed_systems\": true,\n  \"microservices\": true,\n  \"scalability_exp\": true,\n  \"github_stars\": 3000,\n  \"test_coverage\": 90,\n  \"ml_knowledge\": 85,\n  \"fine_tuning_exp\": true,\n  \"embeddings_exp\": true,\n  \"production_ai_systems\": 4,\n  \"ai_research\": true,\n  \"patents\": 0,\n  \"open_source_ai\": true,\n  \"prompt_engineering\": true\n}'",
+      "description": "Avaliar expertise t\u00e9cnica da Ana Beatriz Costa com Python3",
+      "tool_used": "Bash",
+      "success": true
+    },
+    {
+      "timestamp": "2025-09-22T08:30:17.560683",
+      "script": "ai_expertise_evaluator.py",
+      "command": "python3 scripts/ai_expertise_evaluator.py --candidate-json '{\n  \"name\": \"Ana Beatriz Costa\",\n  \"llm_apis\": [\"openai\", \"anthropic\", \"google\"],\n  \"agent_frameworks\": [\"langchain\", \"autogen\", \"claude_sdk\"],\n  \"distributed_systems\": true,\n  \"microservices\": true,\n  \"scalability_exp\": true,\n  \"github_stars\": 1200,\n  \"test_coverage\": 95,\n  \"ml_knowledge\": 85,\n  \"fine_tuning_exp\": true,\n  \"embeddings_exp\": true,\n  \"production_ai_systems\": 4,\n  \"ai_research\": true,\n  \"patents\": 2,\n  \"open_source_ai\": true,\n  \"prompt_engineering\": true\n}'",
+      "description": "Evaluate Ana Beatriz technical expertise for AI agents",
+      "tool_used": "Bash",
+      "success": true
+    },
+    {
+      "timestamp": "2025-09-22T16:40:35.460325",
+      "script": "cache_evaluation.py",
+      "command": "python3 scripts/cache_evaluation.py",
+      "description": "Execute avalia\u00e7\u00e3o do c\u00f3digo com python3",
       "tool_used": "Bash",
       "success": true
     }

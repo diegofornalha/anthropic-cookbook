@@ -1,0 +1,304 @@
+Source: https://investor.equinix.com/sec-filings/todos-sec-filings/content/0001193125-04-035568/dex1095.htm
+
+Exhibit 10.95
+
+ 
+
+SUBLEASE AGREEMENT
+
+ 
+
+este SUBLEASE AGREEMENT (“Sublease”) is made e entered into as of the 24th dia of October 2003, by e entre SPRINT COMMUNICATIONS empresa, L.P., a Delaware limited partnership (“Sublandlord”), e EQUINIX OPERATING CO., INC., a Delaware corporation (“Subtenant”).
+
+ 
+
+RECITALS
+
+ 
+
+A. Duane Raymond, LLC, a California limited liability empresa (“Master Landlord”), has leased para Sublandlord the space in e ao redor the building (the “Building”) situated on the real property commonly known e numbered as 1350 Duane Avenue, Santa Clara, California, such space being mais particularly described in Exhibit A attached hereto e incorporated herein by este reference (the “Premises”), pursuant para aquele certain Lease made e entered into as of November 30, 2000 by Master Landlord e Sublandlord as amended by primeiro Amendment dated as of March 15, 2001 (collectively, the “Master Lease”).
+
+ 
+
+B. A true, correct e completo copiar of the Master Lease is attached hereto as Exhibit B e incorporated herein by este reference.
+
+ 
+
+C. Subtenant desires para sublet de Sublandlord, e Sublandlord has agreed para sublet para Subtenant, todos of the Premises consisting of 160,000 square feet of space (the “Subleased Premises”).
+
+ 
+
+D. todos undefined, capitalized terms used in este Sublease have the meanings ascribed para such terms in the Master Lease.
+
+ 
+
+agora THEREFORE, for valuable consideration e on the terms e conditions set forth herein, Sublandlord e Subtenant hereby agree as follows:
+
+ 
+
+1. Subleased Premises. Sublandlord hereby leases para Subtenant, e Subtenant hereby leases de Sublandlord, the Subleased Premises, together com the direita para use the Common Area (including, but não limited para, Tenant’s Allocated Parking Stalls within the projeto), the Parking Area e the Exterior Area) provided by Master Landlord para Sublandlord pursuant para the terms of the Master Lease. The Subleased Premises shall include todos tenant improvements, alterations, conduits e equipment installed therein by Sublandlord. In addition, Sublandlord hereby assigns para Subtenant for the duration of the Term (as hereinafter defined) of este Sublease, todos rights aquele Sublandlord has pursuant para the Master Lease in connection com the occupancy, use ou enjoyment of the Subleased Premises e agrees aquele (subject para Sublandlord’s rights pursuant para the MSA e the Conduits Agreement (each term as defined abaixo)) such rights shall be exercisable exclusively by Subtenant while the Sublease is in effect. Such rights shall include, but não be limited para, O seguinte: todos rights Sublandlord has pursuant para Section 2.1 [Demise of Premises] of the Master Lease; todos signage rights Sublandlord has pursuant para Section 4.3 [Signs] of the Master Lease, todos parking rights aquele Sublandlord has pursuant para Section 4.4 [Parking] of the Master Lease, todos rights Sublandlord has pursuant para Section 14.1(D) of the Master Lease (i.e., para permit Customers para enter upon e occupy the Premises for purposes of installing, repairing, replacing, operating e maintaining their customer
+
+equipment); todos rights Sublandlord has pursuant para O seguinte provisions of the Lease Rider para the Master Lease: Paragraph 3 [Roof Rights]; Paragraph 4 [Exterior Area]; Paragraph 5 [Fiber e Electrical Conduit Rights of Way]; Paragraph 6 [Emergency Generators e Fuel armazenamento Tanks]; Paragraph 7 [HVAC]; Paragraph 8 [Life Safety Systems]; Paragraph 10 [Leasehold Mortgage]; Paragraph 11 [Telephone Service]; e Paragraph 17 [Sprinkler]. Sublandlord warrants aquele (a) subject para obtaining the consent of Master Landlord as provided in Section 5, Sublandlord has the full power, authority e legal direita para sublease the Subleased Premises para Subtenant, (b) Subtenant will have the direita quietly para enjoy the Subleased Premises subject para (i) the Master Lease, (ii) the terms of este Sublease, e (iii) any other interest para qual the Master Lease is subject according para its terms, e (c) the Subleased Premises will be in the same condition on the Commencement data (as defined herein) as on the data hereof, normal wear e tear excepted.
+
+ 
+
+2. Accompanying Agreements.
+
+ 
+
+2.1 Employee Covenants Agreement. Sublandlord e Subtenant are simultaneously entering into a certain Employee Covenants Agreement, qual is incorporated herein by reference, pursuant para qual the parties agree para take certain actions e provide certain information beginning on the data hereof com respect para employees of Sublandlord at the internet Data centro at the Subleased Premises para facilitate Subtenant making offers of employment para such employees, para be effective as of December 1, 2003 (the “Closing data”).
+
+ 
+
+2.2 Master Service Agreement. The parties’ relationship com respect para Sublandlord’s point of presence into the Subleased Premises (the “Point of Presence”) para provide IP transport shall be governed by aquele certain Master Service Agreement (“MSA”) dated October 26, 2001.
+
+ 
+
+2.3 Conduits Agreement. Sublandlord e Subtenant are simultaneously entering into a certain Agreement para Licença Conduits (“Conduits Agreement”).
+
+ 
+
+3. Certain Actions com Respect para Customer Contracts; Transition Services.
+
+ 
+
+3.1 Certain Actions com Respect para Customer Contracts. durante the primeiro two years of este Sublease, Sublandlord e Subtenant will cooperate in any mutually agreeable, reasonable e lawful arrangements e use commercially reasonable efforts para cause each customer (each, a “Customer”) of Sublandlord at the Subleased Premises having a contract (a “Customer Contracts”) com Sublandlord para procure Collocation Services (as defined abaixo) at the Premises, para agree para terminate its Customer Contract com Sublandlord as of the Closing data e enter into novo agreements for Collocation Services com Subtenant, e in each case, following the execution of a novo agreement, Sublandlord will retain the direita para receber todos IP transport revenue under the Customer Contracts com Sublandlord in connection com the provision of Collocation Services by Subtenant para the Customer following the Closing data. Subtenant agrees não para offer IP transport services para such Customer, either on its own behalf ou on behalf of any other “Person” (defined abaixo) other than Sublandlord, as part of ou durante the negotiations for novo contracts contemplated by este provision, provided however, aquele following the Closing data, Subtenant shall be entitled para respond para requests de Customers quem wish para contact alternativo providers for IP transport services. Notwithstanding the foregoing, se any
+
+ 
+
+2
+
+Customer refuses para enter into a novo agreement com Subtenant ou se the terms of any Customer Contracts require Sublandlord para deliver a termination notice para the applicable Customer entre the data of este Sublease e the Closing data, Sublandlord will terminate the applicable Customer Contracts, subject para Section 3(ii) abaixo (each a “Termination Services Customer Contract”).
+
+ 
+
+3.2 Transition Services. Except as provided in Esta seção 3(ii), neither Subtenant nor Sublandlord will provide any transition services at the Subleased Premises following the Closing data. Following the Closing data, Sublandlord will continue para provide Collocation Services at the Subleased Premises para each Customer under a Termination Services Customer Contract until the sooner of (a) the expiration of the applicable termination period under the Termination Services Customer Contract (the “Termination Services Period”); ou (b) March 31, 2004; provided, however, aquele durante the Termination Services Period, Sublandlord will pay para Subtenant the quantidade billed para the customer by Sublandlord for power e space at the Subleased Premises under the terms of the applicable Termination Services Customer Contract durante the Termination Services Period de the Closing data until the expiration of the applicable Termination Services Customer Contract.
+
+ 
+
+For purposes of este Sublease, “Collocation Services” means services provided para a Customer aquele enable a Customer para instalar e operate telecommunications equipment in a data centro, including provision of the space, power e rede connections necessary para operate the equipment. “Person” means any individual, partnership, joint venture, corporation, trust, limited liability empresa, unincorporated organização, a government ou any department ou agency thereof, ou other entity.
+
+ 
+
+4. Master Lease.
+
+ 
+
+4.1 Relationship of Sublease para Master Lease. Subtenant acknowledges aquele este Sublease is subject e subordinate para the Master Lease e para todos the terms, covenants e conditions contained therein. para the extent aquele the Master Lease is also subject e subordinate para such instruments, este Sublease is also subject e subordinate para todos ground e underlying leases e todos mortgages qual might agora ou hereafter affect such leases, the leasehold estate ou estates thereby created ou the real property of qual the Subleased Premises formulário a part, e para any e todos renewals, modifications, consolidations, replacements e extensions thereof. Subtenant covenants e agrees aquele (a) durante the Term (as hereinafter defined) of este Sublease, Subtenant will perform e observe todos of the terms, covenants, conditions e agreements of the Master Lease para be performed by Sublandlord (including, sem limitation, the providing of estoppel certificates e subordination agreements in accordance com the Master Lease, se applicable) para the extent aquele the same are não modified ou amended by este Sublease, (b) Subtenant shall não do, suffer ou permit anything para be done qual would constitute a padrão under the Master Lease ou might cause the Master Lease para be canceled, terminated ou forfeited, e (c) Subtenant will, in accordance com Section 9 abaixo, e subject para the limitations therein, indemnify e hold harmless Sublandlord e Master Landlord de e against todos claims, liabilities, losses e damages of any kind aquele Sublandlord ou Master Landlord may incur para the extent they are by reason of, resulting de ou arising out of a falha by Subtenant para comply com the provisions of este Sublease e/ou the Master Lease, including, sem limitation, subsections (a) e (b) of este paragraph. Notwithstanding the foregoing, Subtenant shall have no obligation para cure any padrão of Sublandlord under the Master Lease (except para the extent such padrão is caused by Subtenant’s padrão hereunder).
+
+4.2 Utilization of Master Lease Provisions as Part of Sublease.
+
+ 
+
+(a) Except as the terms e conditions set forth in este Sublease modificar ou contradict the terms e conditions of the Master Lease ou any exhibits ou attachments thereto, todos of the terms e conditions contained in the Master Lease are hereby made a part of este Sublease e are deemed para constitute a portion of the agreement entre Sublandlord e Subtenant concerning the leasing of the Subleased Premises; provided, however, aquele para the extent any of the terms e provisions of the Master Lease are inappropriate ou inapplicable para este Sublease, such terms e provisions shall não be made a part hereof e in the event of any inconsistency entre the Master Lease e este Sublease, as entre Sublandlord e Subtenant, the provisions of este Sublease shall take precedence over any conflicting provisions of the Master Lease. sem limiting the generality of the foregoing, the parties agree aquele O seguinte provisions of the Master Lease shall não be applicable para este Sublease: Sections 1.2 (except com respect para Master Landlord’s address), 2.2, 2.3, 2.4, 2.5, 2.6, 7.2.E., 7.2.H., Article 3, Sections 9.2, 10.2, 10.3, 10.4, 11.2, 12.1, 15.7 (except com respect para providing notice para Master Landlord), 15.11, Paragraphs 1, 2, 12 e 15 of the Lease Rider e Exhibits B e E. onde references are made in the Master Lease para the “Premises”, the same shall be deemed para refer para the Subleased Premises hereunder; onde references are made in the Master Lease para the “Commencement data,” the same shall be deemed para refer para the Commencement data hereunder; onde references are made para the Master Lease para “Base Monthly Rent”, the same shall be deemed para refer para Monthly Base Rent hereunder; onde references are made under the Master Lease para “Additional Rent”, the same shall be deemed para refer para Additional Rent hereunder; e onde references are made in the Master Lease para “este Lease” the same shall be deemed para refer para este Sublease.
+
+ 
+
+(b) It is understood by Subtenant aquele the services, repairs e alterations referred para herein para be furnished in accordance com the provisions of the Master Lease will in fact be furnished by Master Landlord e não by Sublandlord. Sublandlord shall não be liable para Subtenant nor shall Subtenant’s obligations hereunder be impaired ou the desempenho thereof excused because of any falha ou delay on Master Landlord’s part in furnishing any such service ou in making any of such repairs ou alterations unless e para the extent aquele Sublandlord reasonably agrees aquele Sublandlord’s desempenho of such obligations is excused pursuant para the terms of the Master Lease. Notwithstanding the foregoing, para the extent any padrão by Master Landlord results in a waiver ou deferral of the desempenho of any of Sublandlord’s obligations under the Master Lease, the same obligations of Subtenant hereunder shall be similarly waived ou deferred, as applicable, but todos other obligations of Subtenant shall remain in full force e effect. Sublandlord agrees aquele se Master Landlord fails para provide any thing ou service qual Master Landlord is obrigatório para provide pursuant para the terms of the Master Lease, ou otherwise defaults thereunder, Sublandlord will, upon the written requisição of Subtenant e at Subtenant’s cost e expense (except para the extent aquele such costs e expenses are reimbursed by Master Landlord para Sublandlord), provide such assistance as Subtenant may reasonably requisição, including sem limitation, making a claim e/ou demand on Master Landlord in the name of Sublandlord, para effect a cure of such padrão by Master Landlord ou otherwise. Likewise, se Sublandlord defaults under the Master Lease, Subtenant shall have the
+
+direita (subject para any applicable notice e cure provisions in the Master Lease e in este Sublease e subject para the consent of Master Landlord being primeiro had e obtained), but não the obligation, para cure any such padrão, on behalf of Sublandlord e at Sublandlord’s cost e expense, including, sem limitation, offsetting any costs e expenses incurred by Subtenant against Monthly Base Rent e Additional Rent payable hereunder (provided aquele Subtenant may não exercise the foregoing direita of offset se Sublandlord has notified Subtenant aquele Sublandlord is disputing such alleged padrão in good faith e Master Landlord has não availed itself of any of its remedies under the Master Lease qual would impair the continued existence of este Sublease). It is further understood by Subtenant aquele its rights com respect para the repair e restoration of the Subleased Premises ou the Building, its rights as para the use e application of insurance proceeds e condemnation proceeds, its rights para rent abatement e its direita para terminate este Sublease in the event of damage para ou condemnation of todos ou any part of the Subleased Premises ou the Building are todos subject para the prior rights, se any, of Master Landlord. todos expenses incurred by Master Landlord in connection com the Landlord Consent (as defined herein) shall be paid one-half by each party hereto.
+
+ 
+
+(c) It is further understood by Subtenant aquele Sublandlord will não be obligated para comply com Master Landlord’s responsibilities pursuant para Section 4.2 of the Master Lease relating para “Compliance com Law”, e Section 11.1 relating para “Landlord’s Duty para restaurar” e Paragraph 16 of the Lease Rider relating para “Adjacent Property Rights.” In addition, notwithstanding anything herein para the contrary, only Master Landlord exclusively, não Sublandlord, shall have the rights of “Landlord” pursuant para O seguinte provisions of the Master Lease as incorporated herein: Sections 4.3, 4.4, 4.5, 5.2 (provided, however, such alterations e improvements shall não materially impair Sublandlord’s Point of Presence e conduits pursuant para Sections 2.2 e 2.3 hereof, e Subtenant shall provide notice para Sublandlord in each case in qual notice is provided para Master Landlord pursuant para Section 5.2 of the Master Lease), 6.3, 7.2(D), 7.2(G), Article 8, 11.2, 11.3, 12.1 e 12.5. Notwithstanding anything para the contrary contained in este Sublease, the parties agree e acknowledge aquele any direita para terminate the leasehold interest by Subtenant shall only be com respect para the Sublease e não the Master Lease, e Sublandlord shall retain the retain the direita para terminate the Master Lease pursuant para the terms thereof. Any attempt by Subtenant para terminate the Master Lease shall be null e void.
+
+ 
+
+4.3 Master Lease in Full Force e Effect. Sublandlord represents, covenants e agrees aquele: (i) a true, correct e completo copiar of the Master Lease is attached hereto as Exhibit B e ali exist no other agreements entre Master Landlord e Sublandlord governing the use ou occupancy of the Subleased Premises; (ii) the Master Lease is in full force e effect e has não been amended, supplemented ou otherwise changed; (iii) para the best of Sublandlord’s knowledge, Sublandlord is não in padrão under the Master Lease (e no set of circumstances exists qual, com the passage of tempo ou giving of notice, would constitute a padrão thereunder); (iv) Sublandlord has paid e performed todos obligations obrigatório para be paid ou performed by Sublandlord under the Master Lease through the data the Sublease term commences; (v) Sublandlord has no knowledge of any padrão by Master Landlord under the Master Lease; (vi) the term of the Master Lease expires on September 30, 2014; e (vii) e the provisions of the Master Lease will não be waived, modified, amended ou surrendered by Sublandlord in any manner so as para prevent ou adversely affect the use by Subtenant of the Subleased Premises in accordance com the terms of este Sublease, nor as para impose any greater
+
+obligations on Subtenant than are imposed on Subtenant under este Sublease, ou provide para Subtenant any lesser rights than are provided para Subtenant under este Sublease, sem the prior written consent of Subtenant in each instance.
+
+ 
+
+5. Effectiveness of Sublease. este Sublease shall be effective on the Closing data except for O seguinte provisions of este Sublease, qual shall become effective as of the data of este Sublease: Sections 3, 15, 19, 20, 21, 22, 23, 24 e 25. The parties hereto acknowledge aquele one of the conditions para the closing is aquele Master Landlord must provide its written consent para este Sublease pursuant para the Landlord Consent. Sublandlord agrees para use commercially reasonable efforts para obtain the consent of Master Landlord. se the Closing data is não on ou antes December 1, 2003 (ou such mais tarde data as the parties may mutually agree), este Sublease will be deemed para be null e void e neither party will have any liability ou obligation para the other party hereunder.
+
+ 
+
+6. Term, Possession e Condition of Subleased Premises.
+
+ 
+
+6.1 Term. The term (the “Term”) of este Sublease is for the period qual commences on the Closing data (the “Commencement data”), e expires on September 29, 2014, unless sooner terminated pursuant para the terms of este Sublease.
+
+ 
+
+6.2 Possession. Possession of the Subleased Premises will be delivered para Subtenant on the Commencement data.
+
+ 
+
+6.3 Condition of Subleased Premises. Subtenant acknowledges e agrees aquele (i) it has inspected the Subleased Premises para the extent aquele it deems necessary prior para the execution of este Sublease, (ii) it accepts the Subleased Premises in “AS-IS onde IS” condition e (iii) neither Sublandlord nor Master Landlord shall have any obligation com respect para alterations, repairs ou refurbishment of the Subleased Premises, except as may otherwise be specifically set forth in este Sublease. In the event aquele any improvements ou alterations are permitted by Master Landlord, the removal thereof upon the termination of este Sublease will be the responsibility of Subtenant, todos in accordance com the Master Lease. Subtenant also hereby assumes e agrees para perform any e todos obligations of Sublandlord under the Master Lease com respect para (i) the removal of personal property, equipment, trade fixtures e leasehold improvements de the Subleased Premises, e (ii) the surrender of the Subleased Premises at the expiration of the Term of este Sublease in the condition obrigatório by the Master Lease irrespective of whether ou não such items were placed upon ou installed in the Subleased Premises by ou at the direction of Subtenant ou Sublandlord. Notwithstanding anything para the contrary contained herein, Subtenant’s obligations com respect para the removal of Tenant Improvements e Tenant Alterations de e the restoration of the Subleased Premises ou the Building as obrigatório under the Master Lease shall be governed by the provisions of the Consent of Master Landlord attached hereto as Exhibit C e incorporated herein by este reference (the “Landlord Consent”), se Subtenant e Master Landlord enter into the novo Lease (as defined in the Landlord Consent). The provisions of Esta seção 6.3 shall survive the termination ou expiration of este Sublease.
+
+7. Rent.
+
+ 
+
+7.1 Rent. Subtenant shall pay para Sublandlord as “Monthly Base Rent” O seguinte amounts: (i) durante the primeiro two (2) years of the Term, an quantidade equal para [*] payable by Sublandlord under the Master Lease; e (ii) thereafter, for the remainder of the Term, Subtenant shall pay para Sublandlord, [*] payable by Sublandlord under the Master Lease. Notwithstanding the imediatamente anterior sentence ou anything para the contrary contained herein, (x) se a Subtenant padrão occurs durante the primeiro 2-years of the Term, the Monthly Base Rent payable by Subtenant shall increase para [*]; e (y) se a Subtenant padrão occurs depois the initial two years of the Term, Subtenant shall, within thirty (30) days of Sublandlord’s written demand, pay para Sublandlord an quantidade equal para [*] multiplied by the número of days elapsed de the Commencement data until the data on qual Subtenant’s padrão occurred, but não para exceed a total of [*], as well as todos unpaid e accrued rental amounts. The foregoing sentence shall não limit e the Sublandlord shall have available para it todos other non-monetary remedies available para it pursuant para Section 13.2 of the Master Lease. As used herein, “Subtenant padrão” shall mean a padrão by Subtenant hereunder aquele continues beyond any applicable grace, notice e cure periods. Subtenant agrees para commence paying an quantidade equal para [*] in advance for the primeiro mês of the Term on the Commencement data e para make rent payments thereafter on the primeiro dia of each mês durante the remaining Term of este Sublease. todos rental amounts hereunder for any partial mês will be prorated on the basis of the actual número of days elapsed. Except as expressly permitted in este Sublease, todos rental amounts hereunder shall be payable para Sublandlord sem notice, demand, deduction, offset ou abatement in lawful money of the United States of America at P.O. Box 219061, Kansas City, MO 64121-9061 ou para such other person ou at such other address as Sublandlord may designate in writing. se any Monthly Base Rent ou Additional Rent is não received by Sublandlord de Subtenant within five (5) days of the mais tarde of (i) quando due ou (ii) depois written notice para Subtenant aquele the same has não been received by Sublandlord (provided such notice for late payment has não previously been given in the preceding twelve months), então Subtenant shall imediatamente pay para Sublandlord a late charge equal para the lesser of any penalties, padrão interest charges ou other similar costs computed based on the delinquent quantidade actually incurred by Sublandlord under the Master Lease by reason of Subtenant’s late payment ou [*] percent ([*]%) of such delinquent rent, as liquidated damages for Subtenant’s falha para make timely payment. se any rent remains delinquent for a period in excess of thirty (30) days então, in addition para such late charge, Subtenant shall pay para Sublandlord interest on any rent aquele is não paid quando due at the Agreed Interest Rate following the data such quantidade became due until paid. este paragraph shall não be deemed para grant Subtenant an extensão of tempo within qual para pay rent ou prevent Sublandlord de exercising any other direita ou remedy.
+
+ 
+
+7.2 Other Charges. Subtenant shall pay todos sales e uses taxes levied ou assessed against todos rent payments due under este Sublease (se any) simultaneously com each payment obrigatório hereunder. Subtenant shall pay directly para Sublandlord todos of aqueles costs, expenses, additional rent e todos other amounts (defined as “Additional Rent” in the Master Lease) payable para Master Landlord under the Master Lease, including, but não limited para, aqueles
+
+ 
+
+*	 	CONFIDENTIAL TREATMENT REQUESTED. CONFIDENTIAL PORTION HAS BEEN FILED SEPARATELY com THE SECURITIES e EXCHANGE COMMISSION.
+amounts payable under Sections 3.2 e 8.1 of the Master Lease. Notwithstanding anything para the contrary contained in este Sublease, Subtenant shall não be responsible for any charges, costs, expenses ou similar items (“Charges”) deemed para be Additional Rent se e para the extent said Charges are incurred as a resultado of Sublandlord in its role as Tenant under Master Lease breaching its representations, warranties e covenants thereunder (including, sem limitation, damages claimed by Master Landlord, indemnification obligations owed para Master Landlord, enforcement fees owed para Master Landlord e costs of discharging mechanic’s liens arising through Sublandlord) qual have não been assumed by Subtenant hereunder. In addition, Additional Rent shall não include premiums for insurance policies obrigatório para be maintained by Sublandlord (in its capacity as tenant under the Master Lease) pursuant para the Master Lease, e Excess rent obrigatório para be paid by Sublandlord pursuant para Article 14 of the Master Lease. Subtenant agrees para pay any e todos such Additional Rent in estimated equal monthly installments ou as may otherwise be obrigatório under the terms of the Master Lease. durante the Term, Master Landlord may be permitted para adjust the amounts of such installments payable under the Master Lease. In such event, Sublandlord may adjust the quantidade of the installments due hereunder e, at the end of each calendar ano durante the Term, an adjustment will be made para compensate for any overage ou shortfall com respect para the monthly estimated installments paid versus the actual real estate taxes, insurance, common area maintenance costs, management fees e the like owed, as e quando provided in the Master Lease. para the extent Master Landlord has não agreed para do so pursuant para the Landlord’s Consent, Sublandlord shall promptly forward para Subtenant any statements received de Master Landlord relating para the payment of Common Operating Expenses e annual reconciliations thereof.
+
+ 
+
+se Subtenant so requests, Sublandlord shall, at no cost ou expense para Sublandlord, exercise the direita para contest Real Property Taxes pursuant para Section 8.3 of the Master Lease. se Subtenant so requests, Sublandlord shall cause an audit of Master Landlord’s books e records as permitted e in the manner provided for under Section 8.1 of the Master Lease. Any e todos costs incurred by Sublandlord shall be borne by Subtenant e shall be considered Additional Rent. para the extent Master Landlord is não ultimately obrigatório para bear the costs of such audit in accordance com the Master Lease, the costs of such audit shall be borne by Subtenant, but in no event shall be Sublandlord be liable for such costs. Regardless of whether Subtenant elects para cause an audit of Master Landlord’s books e records, se Sublandlord’s payments toward Common Operating Expenses exceed the total payments made by Subtenant, Subtenant shall pay Sublandlord the deficiency within thirty (30) days of the data of Sublandlord’s statement. se the total payments by Subtenant, as determined pursuant para the audit, exceed the total actual quantidade of Additional Rent owed by Subtenant, Subtenant’s excess payment shall be refunded para Subtenant within thirty (30) days of the data of Sublandlord’s statement, e se não refunded within thirty (30) days, may be offset by Subtenant against the próximo installment of Monthly Base Rent e Additional Rent payable hereunder. For any partial calendar ano at the commencement ou termination of este Sublease, Subtenant’s Additional Rent for such ano shall be prorated for the número of days este Sublease is in effect durante such ano. Notwithstanding the termination of este Sublease, within thirty (30) business days depois Subtenant’s receipt of Sublandlord’s statement regarding Additional Rent in the calendar ano in qual este Sublease terminates, Subtenant shall pay para Sublandlord ou shall receber de Sublandlord, as the case may be, an quantidade equal para the difference entre the actual quantidade of Additional Rent (as prorated) e the quantidade previously paid by Subtenant toward Additional Rent.
+
+7.3 Survival. Subtenant’s obligation para pay todos rental amounts hereunder e para remover alterations e improvements (except as provided in Section 4.2(ii) hereof), as well as any other obligation of Subtenant hereunder qual is não fully satisfied at the termination of este Sublease, will survive the termination of este Sublease. Sublandlord’s obligation para refund para Subtenant any overpayments of Additional Rent shall also survive the termination of este Sublease.
+
+ 
+
+8. Use. The Subleased Premises may be used e occupied durante the Term of este Sublease only for aqueles purposes for qual the Premises may be used e occupied by Sublandlord pursuant para the terms of the Master Lease. Subtenant must, at Subtenant’s expense, comply promptly com todos applicable statutes, ordinances, rules, regulations, orders, restrictions of record e Requisitos in effect durante the Term ou any part of the Term hereof regulating the use by Subtenant of the Subleased Premises.
+
+ 
+
+9. Indemnity. Subtenant hereby indemnifies e agrees para hold Sublandlord e Master Landlord harmless de e against any e todos claims, liabilities ou losses incurred by Sublandlord ou Master Landlord arising out of any breach by Subtenant of any of the terms of, ou its representations contained in, este Sublease, for bodily injury para ou death of any person ou damage para any property arising out of Subtenant’s use of the Subleased Premises ou de the conduct of Subtenant’s business, ou de any activity, work ou thing done, permitted ou suffered by Subtenant in ou sobre the Subleased Premises ou the Building, except:
+
+ 
+
+(a) claims e liabilities occasioned in whole ou in part by the grossly negligent acts ou omissions of the indemnified party, its agents ou employees; e
+
+ 
+
+(b) claims ou liabilities for property damage addressed in Section 10 of este Sublease entitled “Mutual Waiver of Claims”.
+
+ 
+
+Sublandlord hereby indemnifies e agrees para hold Subtenant e Master Landlord harmless de e against any e todos claims, liabilities ou losses incurred by Subtenant ou Master Landlord arising out of any breach by Sublandlord of any of the terms of, ou its representations contained in, este Sublease ou any terms of the Master Lease for qual Sublandlord has retained responsibility pursuant para the terms e provisions of este Sublease, e for bodily injury para ou death of any person ou damage para any property arising out of Sublandlord’s Point of Presence at the Subleased Premises ou de the conduct of Sublandlord’s business related thereto, ou de any activity, work ou thing done, permitted ou suffered by Sublandlord in ou sobre the Subleased Premises ou the Building pursuant para the MSA, except:
+
+ 
+
+(c) claims e liabilities occasioned in whole ou in part by the grossly negligent acts ou omissions of the indemnified party, its agents ou employees; e
+
+ 
+
+(d) claims ou liabilities for property damage addressed in Paragraph 10 of este Sublease entitled “Mutual Waiver of Claims”.
+
+ 
+
+In addition, Sublandlord hereby indemnifies e agrees para hold Subtenant harmless de e against todos claims, liabilities ou losses suffered by Subtenant as a resultado of the “lançamento” (as defined abaixo) com respect para the projeto. For purposes of este Sublease, a Releases is aquele certain incident reported para the California Office of Emergency Services on May 31, 2002, e assigned spill número 05/31/2002 02-2920 (also known by the Santa Clara Water Board as case número SCVWDID #06S1W27K01f, LOP).
+
+The foregoing indemnities include todos reasonable costs, attorneys’ fees e expenses incurred in the defense of any such claim ou any action ou proceeding brought thereon.
+
+ 
+
+10. Mutual Waiver of Claims. Sublandlord e Subtenant do each hereby lançamento e relieve the other e Master Landlord, e waive their entire claim of recovery against the other party e/ou Master Landlord for loss ou damage para property arising out of ou incident para fire, lightning ou any other perils normalmente included in an “todos-risks” property insurance policy quando such property constitutes the Subleased Premises ou the Building ou is in, on ou sobre the Subleased Premises, the Building ou the land on qual the Building is situated, whether ou não such loss ou damage is due para the negligence of Sublandlord, Subtenant ou Master Landlord, their agents, employees, guests, licensees, invitees ou contractors, para the extent such loss ou damage is covered by such insurance.
+
+ 
+
+11. padrão. The notice e grace period provisions contained in the Master Lease shall apply para any padrão by Subtenant hereunder. se Subtenant defaults in the payment of any rental amounts hereunder ou any other sum obrigatório para be paid hereunder by Subtenant, ou in the desempenho of any of its other obligations under este Sublease ou the Master Lease beyond any applicable notice ou grace period Sublandlord shall have the same rights e remedies against Subtenant as Master Landlord has against Sublandlord in the event of Sublandlord’s padrão under the Master Lease; provided, however, aquele any damages recoverable by Sublandlord shall be computed based on the Monthly Base Rent e Additional Rent payable under este Sublease Such rights e remedies shall be cumulative com todos other rights e remedies qual Sublandlord may otherwise have under applicable law.
+
+ 
+
+12. Transfer of Subleased Premises.
+
+ 
+
+12.1 Neither este Sublease nor the Term e estate hereby granted, ou any part hereof ou thereof, may be assigned, mortgaged, pledged, encumbered ou sublet sem primeiro obtaining the express written consent of: (i) Sublandlord, such consent não para be unreasonably withheld; e (ii) Master Landlord, qual consent shall be granted ou denied in accordance com the provisions of the Master Lease.
+
+ 
+
+12.2 Any requisição for Sublandlord’s ou Master Landlord’s consent para a proposed assignment ou subletting of the Subleased Premises ou any portion thereof shall be in writing (hereinafter referred para as “Subtenant’s Notice”) e shall set forth the proposed subtenant’s ou assignee’s name, address, nature ou character of business, e então atual financial statements of the proposed subtenant ou assignee, e the terms e conditions of the proposed subletting. Any consent para subletting ou assignment qual may be given by Sublandlord shall não constitute a waiver by Sublandlord of the provisions of Esta seção 12, ou a lançamento of Subtenant de the full desempenho by it of the covenants on the part of Subtenant herein contained. Any violation of any provision of este Sublease by any subtenant shall be deemed a violation of such provision by Subtenant.
+
+12.3 Any subletting ou assignment permitted hereunder shall, com respect para the use of the Subleased Premises, be subject para e shall não violate the restrictive provisions of este Sublease e the provisions of the Master Lease.
+
+ 
+
+12.4 se, for any proposed assignment ou sublease, Subtenant receives rent ou other consideration, either initially ou over the term of the assignment ou sublease, in excess of the rent called for hereunder ou, in case of the sublease of a portion of the Subleased Premises, in excess of such rent fairly attributable para such portion, depois appropriate adjustments para ensure aquele todos other payments called for hereunder are taken into conta, Subtenant shall pay para Sublandlord, as additional rent hereunder, todos of the profit realized by Subtenant promptly depois its receipt. Such profit shall be calculated depois deducting de gross rentals todos costs incurred by Subtenant in connection com such transaction, including real estate commissions, legal fees, concessions, tenant improvement allowances, advertising costs, e the like. para the extent aquele Master Landlord successfully asserts a claim para collect any portion of such profits, they shall be paid equally by Subtenant e Sublandlord de their respective shares of such profit.
+
+ 
+
+12.5 Notwithstanding anything herein para the contrary, Sublandlord’s consent shall não be obrigatório hereunder for any agreements com Customers for qual Master Landlord’s consent is não obrigatório pursuant para Section 14.1D of the Master Lease. In addition, Sublandlord shall não be entitled para share in any of Subtenant’s profits, rents ou income derived in connection com any Customer’s use of the Subleased Premises.
+
+ 
+
+13. Insurance. Subtenant agrees para maintain durante the Term hereof at mínimo the mínimo insurance described in Section 9.1 of the Master Lease. Sublandlord e Master Landlord must be named as an additional insured on the commercial general liability insurance coverage. A certificate evidencing such insurance coverages shall be delivered para Sublandlord e Master Landlord on ou antes the primeiro para occur of the Commencement data ou the data quando Subtenant shall enter into possession of the Subleased Premises. Each of Sublandlord e Subtenant shall cause its insurance carriers para waive todos rights of subrogation against the other party hereto para the extent of Sublandlord’s e Subtenant’s undertakings set forth in Section 10 of este Sublease. Notwithstanding anything para the contrary contained herein ou in the Master Lease, Subtenant shall be exclusively entitled para todos insurance proceeds arising under any fire e property damage insurance policies maintained by Subtenant on Subtenant’s personal property, equipment e trade fixtures.
+
+ 
+
+14. Sublandlord’s opções Pursuant para the Master Lease. Sublandlord e Subtenant agree aquele todos opções aquele Sublandlord has pursuant para the Master Lease, i.e., Sublandlord’s Option para Extend pursuant para Paragraph 2 of the Lease Rider para the Master Lease e Sublandlord’s direita of primeiro Offer para Purchase pursuant para Paragraph 15 of the Sublease shall be subordinate para Subtenant’s obligation e option para enter into the novo Lease com Master Landlord as provided in the Landlord Consent. Sublandlord also agrees aquele while este Sublease remains in effect, Sublandlord shall neither have the direita para nor exercise any such option sem the prior written consent of Subtenant, qual consent may be granted ou withheld in Subtenant’s sole e absolute discretion.
+
+ 
+
+15. Notices. Except as otherwise provided in the Master Lease com respect para notices para Master Landlord ou as hereinafter provided as para notices of padrão by Sublandlord e
+
+Subtenant, any notice obrigatório ou permitted para be given hereunder shall be in writing e shall be effective only (a) three (3) days depois deposit in a sealed envelope in the United States mail, postage prepaid, by registered ou certified mail, retorna receipt requested, addressed para the recipient at the address set forth abaixo, (b) the próximo business dia following deposit com an overnight courier service, com próximo dia entrega charges prepaid, ou (c) upon receipt se delivered by facsimile transmission. Notices para Subtenant shall be addressed para Equinix Operating Co., Inc., 301 Velocity Way, 5th Floor, Foster City, CA 94404, Attention: Director of Real Estate, Facsimile No. (650) 513-7909, com a copiar para Equinix Operating Co., Inc., 301 Velocity Way, 5th Floor, Foster City, CA 94404, Attention: General Counsel, Facsimile No. (650) 513-7909, e notices para Sublandlord shall be addressed para Sprint Communications empresa, L.P., 6200 Sprint Parkway, KSOPHF 0302-3B679, Overland Park, KS 66251, Attention: Legal-Corporate Transactions, Facsimile No. (913) 794-0144, com copiar para Sprint Communications empresa, L.P., 6450 Sprint Parkway, KSOPHN 0314-3A671, Overland Park, KS 66251, Attention: Real Estate Attorney, Facsimile No. (913) 315-0708. Anything hereinbefore para the contrary notwithstanding, notices of padrão may only be sent by certified ou registered mail pursuant para (a), acima.
+
+ 
+
+16. Broker’s Commissions. Sublandlord e Subtenant each hereby represents e warrants para the other e para Master Landlord aquele neither party entered into any agreement com any broker, agent, finder ou other party for the payment of a broker’s ou agent’s commission, finder’s fee ou like compensation payable in connection com Sublandlord e Subtenant entering into este Sublease. Sublandlord e Subtenant each hereby agrees para indemnify e hold the other e Master Landlord harmless de e against any e todos claims, demands, damages, losses ou causes of action related para ou arising out of any such agreement entered into by the indemnifying party for the payment of any such commission, fee ou like compensation.
+
+ 
+
+17. segurança Interest. Sublandlord hereby waives any segurança interest pursuant para the Uniform Commercial Code of the State of California ou other California law aquele Sublandlord may have in todos of the personal property, equipment e trade fixtures used ou para be used by Subtenant in connection com its use e operation of the Subleased Premises.
+
+ 
+
+18. Personal Property. Sublandlord e Subtenant are simultaneously entering into a certain Bill of Sale e Conveyance Agreement (the “Bill of Sale”), qual will become effective on the Closing data, pursuant para qual Sublandlord will transfer para Subtenant certain items of tangible personal property, as provided in the Bill of Sale. Any sales taxes associated com the transfer of such personal property will be paid for as provided in the Bill of Sale.
+
+ 
+
+19. Casualty e Eminent Domain. In the event of a fire ou other casualty affecting the Subleased Premises, ou of a taking of todos ou a part of the Subleased Premises under the power of eminent domain, Sublandlord shall não exercise any rights qual it may have permitting it para terminate ou continue com the Master Lease as a resultado of a casualty ou condemnation sem primeiro obtaining the prior written consent of Subtenant. se Subtenant fails para respond para such written requisição by Sublandlord para Subtenant within ten (10) days, então consent will be deemed para have been given. se the Master Lease imposes on Master Landlord, the obligation para repair ou restaurar leasehold improvements ou alterations, Subtenant shall permit Master Landlord para enter the Subleased Premises para perform the same. Subtenant shall have the direita para terminate the Sublease as a resultado of a casualty ou condemnation para the extent Sublandlord has the direita para
+
+terminate the Master Lease as a resultado of such event. para the extent Sublandlord is entitled para an abatement of its obligation para pay rent pursuant para the Master Lease as a resultado of the occurrence of a casualty ou condemnation, Subtenant shall also be entitled para an abatement of Monthly Base Rent e Additional Rent com respect para the Subleased Premises. Notwithstanding anything herein para the contrary, se the Master Lease is validly terminated by Master Landlord following a casualty ou condemnation, este Sublease shall also terminate.
+
+ 
+
+20. Entire Agreement. este Sublease, including the terms of the Master Lease qual are incorporated herein by reference, contains the entire agreement entre the parties concerning the subject matter hereof e supersedes todos prior e contemporaneous agreements, understandings, terms, warranties e representations, whether oral ou written, made by the parties concerning the matters covered by este Sublease.
+
+ 
+
+21. confidencialidade. Subtenant e Sublandlord shall each maintain as confidential any e todos non-público material obtained sobre the other e the transactions contemplated hereby, e shall não, except as obrigatório by law ou governmental regulation applicable para Sublandlord ou Subtenant, disclose such information para any third party. Notwithstanding the foregoing, Subtenant e Sublandlord shall have the direita para disclose such information para their respective lenders ou their employees e agents e such other persons whose assistance is obrigatório in carrying out the terms of este letter provided aquele todos such persons are told aquele such information is confidential e agree (in writing for any third party consultants) para keep such information confidential. Subtenant e Sublandlord shall each have the direita para publicize the consummation of este Sublease (other than the monetary terms) in whatever manner each deems appropriate; provided, however, aquele any press lançamento ou other público disclosure regarding the transactions contemplated herein, e the wording of same, must be approved in advance by both parties. Notwithstanding anything herein ou in any other written ou oral understanding ou agreement para qual the parties hereto are parties ou by qual they are bound, either party (ou its representative, agents ou employees) may (i) consult any tax advisor regarding the tax treatment e tax structure of the transaction contemplated by este Sublease e (ii) may at any tempo disclose para any person, sem limitation of any kind, the tax treatment e tax structure of such transaction e todos materials of any kind (including opinions ou other tax analyses) aquele are provided relating para such tax treatment ou tax structure. The provisions of este paragraph shall survive the termination of este Sublease.
+
+ 
+
+22. Severability. The illegality, invalidity ou unenforceability of any term, condition ou provision of este Sublease shall in no way impair ou invalidate any other term, condition ou provision of este Sublease, e todos such other terms, conditions e provisions shall remain in full force e effect.
+
+ 
+
+23. Attorneys’ Fees. se any party hereunder brings an action para enforce the terms ou para declare rights hereunder, the prevailing party in any such action, on trial ou appeal, shall be entitled para recover its actual attorneys’ fees e costs of suit de the non-prevailing party.
+
+ 
+
+24. Successors e Assigns. este Sublease shall be binding upon the parties hereto e upon their respective successors e assigns.
+
+25. Governing Law. este Sublease will be governed by the law of the State of California, sem regard para its choice of law rules.
+
+ 
+
+26. Authority para Sign. Each party hereby represents e warrants para the other aquele the person ou entity signing este Sublease on behalf of such party is duly authorized para execute e deliver este Sublease e para legally bind the party on whose behalf este Sublease is signed para todos of the terms, covenants e conditions contained in este Sublease.
+
+ 
+
+[Remainder of página intentionally esquerda blank]
+
+IN WITNESS WHEREOF, the parties have executed este Sublease as of the dia e ano primeiro acima written.
+
+ 
+
+SUBLANDLORD:
+SPRINT COMMUNICATIONS empresa, L.P.
+
+By:
+
+ 	
+    /s/ Robert J. Dellinger
+
+Name: Robert J. Dellinger
+
+Title: EVP & CFO
+
+SUBTENANT:
+EQUINIX OPERATING CO., INC.
+
+By:
+
+ 	
+    /s/ Renee F. Lanam
+
+Name: Renee F. Lanam
+
+Title: CFO

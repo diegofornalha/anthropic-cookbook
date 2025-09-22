@@ -1,36 +1,36 @@
 ---
 name: strategic-brief
-description: Generate a comprehensive strategic brief by coordinating analysis from both financial and talent perspectives
+description: Gerar um briefing estratégico coordenando análise técnica e de talentos para decisões de desenvolvimento de agentes de IA
 ---
 
-Create a strategic brief on: {{args}}
+Crie um briefing estratégico sobre: {{args}}
 
-Coordinate with both the financial-analyst and recruiter subagents to provide:
+Coordene com ambos os subagentes cto e recrutador para fornecer:
 
-## Executive Summary
-- Key recommendation (1-2 sentences)
-- Critical metrics impact
+## Resumo Executivo
+- Recomendação principal (1-2 frases)
+- Impacto em métricas críticas
 
-## Financial Analysis (via financial-analyst)
-- Cost/investment required
-- ROI and payback period
-- Impact on runway and burn rate
-- Financial risks and mitigation
+## Análise Técnica (via cto)
+- Stack tecnológica necessária
+- Arquitetura proposta para agentes de IA
+- Desafios técnicos e soluções
+- Riscos técnicos e mitigação
 
-## Talent Perspective (via recruiter)
-- Team capabilities required
-- Hiring implications
-- Retention considerations
-- Competitive talent landscape
+## Perspectiva de Talentos (via recrutador)
+- Capacidades da equipe necessárias
+- Implicações de contratação
+- Considerações de retenção
+- Panorama competitivo de talentos em IA
 
-## Strategic Recommendation
-- Recommended action plan
-- Success metrics
-- Timeline and milestones
-- Risk mitigation strategies
+## Recomendação Estratégica
+- Plano de ação recomendado
+- Métricas de sucesso
+- Timeline e marcos
+- Estratégias de mitigação de riscos
 
-## Alternative Options
-- At least 2 alternative approaches
-- Pros/cons of each
+## Opções Alternativas
+- Pelo menos 2 abordagens alternativas
+- Prós/contras de cada
 
-Format for board-level presentation with clear sections and data-driven insights.
+Formate para apresentação em nível de diretoria com seções claras e insights baseados em dados.

@@ -1,0 +1,2 @@
+title: como para alterar Your Password
+para alterar your password, log in para your PetWorld conta e navigate para the "conta configurações" página. Click on the "segurança" tab, então select "alterar Password." Enter your atual password, então type your novo password twice para confirmar. Certifique-se your novo password is at mínimo 8 characters long e includes a mix of uppercase e lowercase letters, numbers, e symbols. Click "salvar Changes" para atualizar your password. For segurança reasons, you'll be logged out e need para sign in again com your novo password.
