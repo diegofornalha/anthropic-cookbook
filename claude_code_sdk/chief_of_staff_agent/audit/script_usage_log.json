@@ -1,0 +1,12 @@
+{
+  "script_executions": [
+    {
+      "timestamp": "2025-09-24T00:16:04.490170",
+      "script": "decision_matrix.py",
+      "command": "cd \"/Users/2a/.claude/anthropic-cookbook/claude_code_sdk/chief_of_staff_agent/demos-avancados/neo4j-agent\" && python3 /Users/2a/.claude/anthropic-cookbook/claude_code_sdk/chief_of_staff_agent/.claude/hooks/scripts/decision_matrix.py",
+      "description": "Run strategic decision analysis with python3",
+      "tool_used": "Bash",
+      "success": true
+    }
+  ]
+}
