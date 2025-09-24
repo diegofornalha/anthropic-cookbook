@@ -173,14 +173,14 @@ TODO: Adicione:
 ### 🎥 Vídeos Recomendados
 1. "LLMs Explained in 5 Minutes"
 2. "Building Your First RAG System"
-3. "Claude SDK Tutorial"
+3. "Claude CODE SDK Tutorial"
 
 ### 🧪 Projetos para Praticar
 1. **Dia 1**: Contador de tokens
 2. **Dia 2**: Classificador com prompts
 3. **Dia 3**: Mini RAG com 10 documentos
 4. **Dia 4**: Comparador de embeddings
-5. **Dia 5**: CLI com Claude SDK
+5. **Dia 5**: CLI com Claude CODE SDK
 
 ## Tracking Neo4j
 

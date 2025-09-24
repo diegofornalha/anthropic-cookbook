@@ -103,7 +103,7 @@ def process_data_stream(
 ```python
 """
 Construa um agente que:
-1. Use LangChain ou Claude SDK
+1. Use LangChain ou Claude CODE SDK
 2. Implemente memória conversacional
 3. Integre com ferramenta de busca
 4. Processe documentos com RAG

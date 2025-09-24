@@ -180,7 +180,7 @@ Audit Logs:
 
 ```mermaid
 graph TD
-    Start[User Input] --> SDK[Claude SDK]
+    Start[User Input] --> SDK[Claude CODE SDK]
 
     SDK --> CheckHooks{PreToolUse<br/>Hooks?}
     CheckHooks -->|Allow| Tool[Execute Tool]

@@ -42,7 +42,7 @@ bootcamp_plan = {
 
     "fase_2": {
         "semanas": "5-8",
-        "foco": "Frameworks (LangChain, Claude SDK)",
+        "foco": "Frameworks (LangChain, Claude CODE SDK)",
         "meta_score": 75,
         "projeto": "Agente de auditoria Solidity"
     },

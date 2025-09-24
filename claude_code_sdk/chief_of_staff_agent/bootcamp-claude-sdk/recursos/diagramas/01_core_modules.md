@@ -92,7 +92,7 @@ from claude_code_sdk._errors import (
 ```mermaid
 sequenceDiagram
     participant User as Usuário
-    participant SDK as Claude SDK
+    participant SDK as Claude CODE SDK
     participant CLI as Claude CLI
     participant API as Claude API
 

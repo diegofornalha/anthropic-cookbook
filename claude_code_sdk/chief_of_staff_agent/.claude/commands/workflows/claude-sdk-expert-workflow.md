@@ -320,7 +320,7 @@ casos = [
     {
         "nome": "Diego Fornalha",
         "inicio": "Score 45, blockchain dev",
-        "fim": "Score 95, Claude SDK Expert",
+        "fim": "Score 95, Claude CODE SDK Expert",
         "tempo": "12 semanas",
         "destaque": "Criador do bootcamp"
     }
@@ -329,5 +329,5 @@ casos = [
 
 ---
 
-*Workflow Claude SDK Expert - 100% focado em domínio do SDK*
+*Workflow Claude CODE SDK Expert - 100% focado em domínio do SDK*
 *Zero to Expert garantido em 12 semanas*

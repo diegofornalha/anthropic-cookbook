@@ -146,7 +146,7 @@ L4_RANGE = "R$ 17.500/mês" # Após certificação 6 meses
 
 ### Mês 1-3: Fundamentos IA
 - **Semana 1-2**: Curso FastAI + Certificação
-- **Semana 3-4**: LangChain + Claude SDK
+- **Semana 3-4**: LangChain + Claude CODE SDK
 - **Semana 5-8**: Projeto interno supervisionado
 - **Semana 9-12**: Contribuição em produção com pair programming
 

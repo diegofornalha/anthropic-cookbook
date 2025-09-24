@@ -139,7 +139,7 @@ async for msg in query(prompt, options):
 
 ## 🎯 CHECKLIST DE VERIFICAÇÃO
 
-Antes de executar qualquer código Claude SDK:
+Antes de executar qualquer código Claude CODE SDK:
 
 - [ ] Usando async/await?
 - [ ] ClaudeCodeOptions tem apenas parâmetros válidos?

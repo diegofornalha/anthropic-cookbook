@@ -52,7 +52,7 @@ async def meu_primeiro_rag():
 Exemplos:
 - [ ] Configuração do ambiente
 - [ ] Entender conceito de embeddings
-- [ ] Erro ao conectar com Claude SDK
+- [ ] Erro ao conectar com Claude CODE SDK
 - [ ] Nenhum bloqueio hoje! 🎉
 ```
 

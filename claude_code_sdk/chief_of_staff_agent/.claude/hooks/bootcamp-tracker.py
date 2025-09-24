@@ -212,7 +212,7 @@ def format_progress_report(candidate: str, week: int, metrics: Dict[str, Any]) -
         report += "- Continuar fundamentos de LLM e RAG\n"
         report += "- Preparar para avaliação de Fase 1\n"
     elif week < 8:
-        report += "- Aprofundar em LangChain e Claude SDK\n"
+        report += "- Aprofundar em LangChain e Claude CODE SDK\n"
         report += "- Iniciar projeto de agente complexo\n"
     elif week < 12:
         report += "- Focar em deployment e produção\n"

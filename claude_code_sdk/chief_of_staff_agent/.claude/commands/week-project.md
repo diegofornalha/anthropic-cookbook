@@ -20,7 +20,7 @@ Cada semana tem um projeto prático que consolida o aprendizado. Este comando gu
 ## Projetos por Semana
 
 ### 📅 Semana 1: CLI Summarizer
-**Objetivo**: Construir ferramenta CLI que resume textos usando Claude SDK
+**Objetivo**: Construir ferramenta CLI que resume textos usando Claude CODE SDK
 
 ### 📅 Semana 2: Smart Contract RAG
 **Objetivo**: Sistema RAG para responder perguntas sobre contratos Solidity
@@ -122,7 +122,7 @@ if __name__ == '__main__':
 #### Milestone 1: Setup Básico ✅
 - [ ] Criar estrutura de pastas
 - [ ] Instalar dependências
-- [ ] Hello World com Claude SDK
+- [ ] Hello World com Claude CODE SDK
 - [ ] Commit inicial
 
 #### Milestone 2: Funcionalidade Core

@@ -14,7 +14,7 @@ Check-in → [HOOK: Verificar documentos] → Embarque
     Se válido: CONTINUA
 ```
 
-## 🎯 Tipos de Hooks no Claude SDK
+## 🎯 Tipos de Hooks no Claude CODE SDK
 
 ### PreToolUse (ANTES)
 ```

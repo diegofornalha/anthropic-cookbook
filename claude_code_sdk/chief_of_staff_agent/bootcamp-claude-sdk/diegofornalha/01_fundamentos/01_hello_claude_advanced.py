@@ -393,7 +393,7 @@ async def main():
     print("\n💡 DICA DO DIA:")
     print("   'Temperature não é sobre certo/errado, é sobre")
     print("    exploração (0.9) vs precisão (0.1). Use com sabedoria!'")
-    print("   - Claude SDK Expert")
+    print("   - Claude CODE SDK Expert")
 
     print("\n" + "🚀" * 30)
 

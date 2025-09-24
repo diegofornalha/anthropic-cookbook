@@ -107,12 +107,12 @@ ASYNC processar_multiplos():
 
 ## ✅ Teste de Compreensão
 
-1. Por que Claude SDK PRECISA ser async?
+1. Por que Claude CODE SDK PRECISA ser async?
 2. O que acontece se usar sync com IA?
 3. Como async melhora a experiência?
 4. Quando NÃO usar async?
 
-## 🚀 Aplicação no Claude SDK
+## 🚀 Aplicação no Claude CODE SDK
 
 ### Por que query() é async?
 - Claude demora para processar
