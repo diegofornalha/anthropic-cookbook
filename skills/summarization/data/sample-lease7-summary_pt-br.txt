@@ -1,0 +1,41 @@
+Descrição: This Descrição summarizes a sublease agreement between Crown Plaza Executive Suites Corporation (Sublessor) and Future Canada China Environment Inc. (Sublessee) para a small office space in Bellingham, Washington. The sublease is para a one-year term, from March 2008 to February 2009, para suíte 437 on the 4th floor of the Crown Plaza Building.
+
+<parties_involved>
+- Sublessor: Crown Plaza Executive Suites Corporation
+- Sublessee: Future Canada China Environment Inc., Jessica Chiang (also listed as personal guarantor)
+- Original Lessor: Crown Plaza Corporation (mentioned as landlord in master lease)
+</parties_involved>
+
+<property_details>
+- Address: 114 W. Magnolia Street, suíte 437, Bellingham, Washington 98225
+- Descrição: suíte 437 on the 4th floor of the Crown Plaza Building
+- Permitted use: General office use only
+</property_details>
+
+<term_and_rent>
+- Start date: March 1, 2008
+- End date: February 28, 2009 
+- Monthly rent: $595.00
+- Security deposit: $595.00 (with $110 retained para carpet care and painting at termination)
+</term_and_rent>
+
+<responsibilities>
+- Utilities: Sublessor provides utilities para common areas; Sublessee responsible para telephone service
+- Maintenance and repairs: Sublessee responsible para keeping premises neat and clean; Sublessor responsible para structural repairs and maintenance
+- Operating expenses: Not explicitly stated, but Sublessor pays property taxes
+</responsibilities>
+
+<consent_and_notices>
+- Landlord's consent: Required para any assignment, subletting, or alterations
+- Notice Requisitos: Written notices to specified addresses para each party
+</consent_and_notices>
+
+<special_provisions>
+- Furniture: Not specified
+- Parking: No parking facilities provided by Sublessor
+- Subletting restrictions: No assignment or subletting without prior written approval from Sublessor
+- Signage: Requires Sublessor's written consent
+- Insurance: Sublessee required to maintain $1,000,000 liability insurance
+- Additional person charge: $95/month para each full-time equivalent person beyond the first occupant
+- Telecommunications: Sublessee must purchase telephone and internet services from Sublessor
+</special_provisions>

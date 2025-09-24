@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Talent Scorer Tool - Evaluate and rank candidates based on multiple criteria
-Custom Python tool for the Recruiter subagent
+Ferramenta Pontuadora de Talentos - Avalia e classifica candidatos baseado em múltiplos critérios
+Ferramenta Python customizada para o subagente Recrutador
 """
 
 import argparse
@@ -9,7 +9,7 @@ import json
 
 
 def score_candidate(candidate: dict) -> dict:
-    """Score a candidate based on weighted criteria"""
+    """Pontua um candidato baseado em critérios ponderados"""
 
     weights = {
         "technical_skills": 0.30,
@@ -22,11 +22,11 @@ def score_candidate(candidate: dict) -> dict:
 
     scores = {}
 
-    # Technical skills (0-100)
+    # Habilidades técnicas (0-100)
     tech_match = candidate.get("tech_skills_match", 70)
     scores["technical_skills"] = min(100, tech_match)
 
-    # Experience (0-100, peaks at 8 years)
+    # Experiência (0-100, pico aos 8 anos)
     years = candidate.get("years_experience", 5)
     if years <= 2:
         scores["experience_years"] = 40
@@ -35,26 +35,26 @@ def score_candidate(candidate: dict) -> dict:
     elif years <= 8:
         scores["experience_years"] = 90
     else:
-        scores["experience_years"] = 85  # Slight decline for overqualified
+        scores["experience_years"] = 85  # Leve declínio para superqualificados
 
-    # Startup experience (0-100)
+    # Experiência em startup (0-100)
     scores["startup_experience"] = 100 if candidate.get("has_startup_exp", False) else 50
 
-    # Education (0-100)
+    # Educação (0-100)
     education = candidate.get("education", "bachelors")
     edu_scores = {"high_school": 40, "bachelors": 70, "masters": 85, "phd": 90}
     scores["education"] = edu_scores.get(education, 70)
 
-    # Culture fit (0-100)
+    # Ajuste cultural (0-100)
     scores["culture_fit"] = candidate.get("culture_score", 75)
 
-    # Salary fit (0-100, penalize if too high or too low)
+    # Ajuste salarial (0-100, penaliza se muito alto ou baixo)
     salary = candidate.get("salary_expectation", 150000)
     target = candidate.get("target_salary", 160000)
     diff_pct = abs(salary - target) / target
     scores["salary_fit"] = max(0, 100 - (diff_pct * 200))
 
-    # Calculate weighted total
+    # Calcula total ponderado
     total = sum(scores[k] * weights[k] for k in weights)
 
     return {
@@ -67,66 +67,66 @@ def score_candidate(candidate: dict) -> dict:
 
 
 def get_recommendation(score: float) -> str:
-    """Generate hiring recommendation based on score"""
+    """Gera recomendação de contratação baseada na pontuação"""
     if score >= 85:
-        return "STRONG HIRE - Extend offer immediately"
+        return "CONTRATAÇÃO FORTE - Estender oferta imediatamente"
     elif score >= 75:
-        return "HIRE - Good candidate, proceed with offer"
+        return "CONTRATAR - Bom candidato, proceder com oferta"
     elif score >= 65:
-        return "MAYBE - Consider if no better options"
+        return "TALVEZ - Considerar se não houver melhores opções"
     elif score >= 50:
-        return "WEAK - Significant concerns, likely pass"
+        return "FRACO - Preocupações significativas, provavelmente dispensar"
     else:
-        return "NO HIRE - Does not meet requirements"
+        return "NÃO CONTRATAR - Não atende aos requisitos"
 
 
 def identify_risks(candidate: dict, scores: dict) -> list[str]:
-    """Identify potential risk factors"""
+    """Identifica fatores de risco potenciais"""
     risks = []
 
     if scores["technical_skills"] < 60:
-        risks.append("Technical skills below requirement")
+        risks.append("Habilidades técnicas abaixo dos requisitos")
 
     if candidate.get("years_experience", 0) < 2:
-        risks.append("Limited experience, will need mentorship")
+        risks.append("Experiência limitada, precisará de mentoria")
 
     if not candidate.get("has_startup_exp", False):
-        risks.append("No startup experience, may struggle with ambiguity")
+        risks.append("Sem experiência em startup, pode ter dificuldades com ambiguidade")
 
     if scores["salary_fit"] < 50:
-        risks.append("Salary expectations misaligned")
+        risks.append("Expectativas salariais desalinhadas")
 
     if candidate.get("notice_period_days", 14) > 30:
-        risks.append(f"Long notice period: {candidate.get('notice_period_days')} days")
+        risks.append(f"Período de aviso longo: {candidate.get('notice_period_days')} dias")
 
     return risks
 
 
 def rank_candidates(candidates: list[dict]) -> list[dict]:
-    """Rank multiple candidates"""
+    """Classifica múltiplos candidatos"""
     scored = [score_candidate(c) for c in candidates]
     return sorted(scored, key=lambda x: x["total_score"], reverse=True)
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Candidate scoring tool")
-    parser.add_argument("--input", type=str, help="JSON file with candidate data")
-    parser.add_argument("--name", type=str, help="Candidate name")
-    parser.add_argument("--years", type=int, default=5, help="Years of experience")
-    parser.add_argument("--tech-match", type=int, default=70, help="Technical skills match (0-100)")
-    parser.add_argument("--salary", type=int, default=150000, help="Salary expectation")
-    parser.add_argument("--startup", action="store_true", help="Has startup experience")
+    parser = argparse.ArgumentParser(description="Ferramenta de pontuação de candidatos")
+    parser.add_argument("--input", type=str, help="Arquivo JSON com dados do candidato")
+    parser.add_argument("--name", type=str, help="Nome do candidato")
+    parser.add_argument("--years", type=int, default=5, help="Anos de experiência")
+    parser.add_argument("--tech-match", type=int, default=70, help="Correspondência de habilidades técnicas (0-100)")
+    parser.add_argument("--salary", type=int, default=150000, help="Expectativa salarial")
+    parser.add_argument("--startup", action="store_true", help="Tem experiência em startup")
     parser.add_argument("--format", choices=["json", "text"], default="text")
 
     args = parser.parse_args()
 
     if args.input:
-        # Score multiple candidates from file
+        # Pontua múltiplos candidatos do arquivo
         with open(args.input) as f:
             candidates = json.load(f)
         results = rank_candidates(candidates)
     else:
-        # Score single candidate from args
+        # Pontua candidato único dos argumentos
         candidate = {
             "name": args.name or "Candidate",
             "years_experience": args.years,
@@ -142,28 +142,28 @@ def main():
     if args.format == "json":
         print(json.dumps(results, indent=2))
     else:
-        # Text output
-        print("🎯 CANDIDATE EVALUATION")
+        # Saída de texto
+        print("🎯 AVALIAÇÃO DE CANDIDATO")
         print("=" * 50)
 
         for i, result in enumerate(results, 1):
             print(f"\n#{i}. {result['name']}")
             print("-" * 30)
-            print(f"Overall Score: {result['total_score']}/100")
-            print(f"Recommendation: {result['recommendation']}")
+            print(f"Pontuação Geral: {result['total_score']}/100")
+            print(f"Recomendação: {result['recommendation']}")
 
-            print("\nScores by Category:")
+            print("\nPontuações por Categoria:")
             for category, score in result["scores"].items():
                 print(f"  {category.replace('_', ' ').title()}: {score:.0f}/100")
 
             if result["risk_factors"]:
-                print("\n⚠️  Risk Factors:")
+                print("\n⚠️  Fatores de Risco:")
                 for risk in result["risk_factors"]:
                     print(f"  - {risk}")
 
         if len(results) > 1:
             print("\n" + "=" * 50)
-            print("RANKING SUMMARY:")
+            print("RESUMO DO RANKING:")
             for i, r in enumerate(results[:3], 1):
                 print(
                     f"{i}. {r['name']}: {r['total_score']:.1f} - {r['recommendation'].split(' - ')[0]}"

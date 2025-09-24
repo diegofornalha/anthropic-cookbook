@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-PostToolUse hook: Logs when Python scripts are executed via the Bash tool
-Maintains both JSON and Markdown audit logs
+Hook PostToolUse: Registra quando scripts Python são executados via ferramenta Bash
+Mantém logs de auditoria em JSON e Markdown
 """
 
 import json
@@ -11,44 +11,44 @@ from datetime import datetime
 
 
 def log_script_usage(tool_name, tool_input, tool_response):
-    """Log execution of Python scripts via Bash tool in JSON and Markdown"""
+    """Registra execução de scripts Python via ferramenta Bash em JSON e Markdown"""
 
-    # Only track Bash tool (which is used to execute scripts)
+    # Rastreia apenas ferramenta Bash (usada para executar scripts)
     if tool_name != "Bash":
         return
 
-    # Get the command from tool input
+    # Obtém o comando do input da ferramenta
     command = tool_input.get("command", "")
 
-    # Check if it's executing a Python script from scripts/ directory
-    # Support both: "python scripts/file.py" and "./scripts/file.py"
+    # Verifica se está executando um script Python do diretório scripts/
+    # Suporte para ambos: "python scripts/file.py" e "./scripts/file.py"
     import re
 
-    # Try to match either pattern: python scripts/... or ./scripts/... or scripts/...
+    # Tenta corresponder qualquer padrão: python scripts/... ou ./scripts/... ou scripts/...
     script_match = re.search(r"(?:python\s+)?(?:\./)?scripts/(\w+\.py)", command)
     if not script_match:
         return
 
-    # Only proceed if it's a scripts/ directory execution
+    # Continua apenas se for execução do diretório scripts/
     if "scripts/" not in command:
         return
 
     script_file = script_match.group(1)
 
-    # Prepare file paths
+    # Prepara caminhos dos arquivos
     audit_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../audit")
     log_json = os.path.join(audit_dir, "script_usage_log.json")
     log_md = os.path.join(audit_dir, "script_usage_log.md")
 
     try:
-        # Load existing JSON log or create new
+        # Carrega log JSON existente ou cria novo
         if os.path.exists(log_json):
             with open(log_json) as f:
                 log_data = json.load(f)
         else:
             log_data = {"script_executions": []}
 
-        # Create log entry
+        # Cria entrada do log
         timestamp = datetime.now()
         entry = {
             "timestamp": timestamp.isoformat(),
@@ -59,35 +59,35 @@ def log_script_usage(tool_name, tool_input, tool_response):
             "success": tool_response.get("success", True) if tool_response else True,
         }
 
-        # Add to JSON log
+        # Adiciona ao log JSON
         log_data["script_executions"].append(entry)
-        log_data["script_executions"] = log_data["script_executions"][-100:]  # Keep last 100
+        log_data["script_executions"] = log_data["script_executions"][-100:]  # Mantém últimas 100
 
-        # Save updated JSON log
+        # Salva log JSON atualizado
         os.makedirs(audit_dir, exist_ok=True)
         with open(log_json, "w") as f:
             json.dump(log_data, f, indent=2)
 
-        # Update Markdown log
+        # Atualiza log Markdown
         update_markdown_log(log_md, entry, timestamp)
 
-        print(f"📜 Script executed: {script_file}")
+        print(f"📜 Script executado: {script_file}")
 
     except Exception as e:
-        print(f"Script logging error: {e}", file=sys.stderr)
+        print(f"Erro no log de script: {e}", file=sys.stderr)
 
 
 def update_markdown_log(md_path, entry, timestamp):
-    """Create or update the Markdown script execution log"""
+    """Cria ou atualiza o log Markdown de execução de scripts"""
 
-    # Format the date for section headers
+    # Formata a data para cabeçalhos de seção
     date_header = timestamp.strftime("## 📅 %d/%m/%Y")
     time_str = timestamp.strftime("%H:%M:%S")
 
-    # Determine status emoji
+    # Determina emoji de status
     status_emoji = "✅" if entry["success"] else "❌"
 
-    # Create the new entry in Markdown format
+    # Cria nova entrada no formato Markdown
     md_entry = f"""
 ### ⚡ {time_str} - {entry['script']} {status_emoji}
 
@@ -99,7 +99,7 @@ def update_markdown_log(md_path, entry, timestamp):
 | **Status** | {'Sucesso' if entry['success'] else 'Falha'} |
 """
 
-    # Script documentation
+    # Documentação dos scripts
     script_docs = {
         "ai_expertise_evaluator.py": "🤖 Avalia expertise técnica em IA/ML",
         "talent_scorer.py": "👥 Pontua candidatos com múltiplos critérios",
@@ -109,14 +109,14 @@ def update_markdown_log(md_path, entry, timestamp):
     if entry['script'] in script_docs:
         md_entry += f"\n> **Função**: {script_docs[entry['script']]}\n"
 
-    # Read existing content or create new
+    # Lê conteúdo existente ou cria novo
     if os.path.exists(md_path):
         with open(md_path, 'r') as f:
             content = f.read()
 
-        # Check if today's section exists
+        # Verifica se seção de hoje existe
         if date_header not in content:
-            # Add new date section
+            # Adiciona nova seção de data
             lines = content.split('\n')
             insert_pos = 2
             for i, line in enumerate(lines):
@@ -127,7 +127,7 @@ def update_markdown_log(md_path, entry, timestamp):
             lines.insert(insert_pos + 1, md_entry)
             content = '\n'.join(lines)
         else:
-            # Add entry under existing date
+            # Adiciona entrada sob data existente
             date_index = content.index(date_header)
             next_section = content.find('\n## ', date_index + 1)
             if next_section == -1:
@@ -135,7 +135,7 @@ def update_markdown_log(md_path, entry, timestamp):
             else:
                 content = content[:next_section] + md_entry + content[next_section:]
     else:
-        # Create new file
+        # Cria novo arquivo
         content = f"""# 🔧 Script Execution Log
 
 > Registro automatizado de scripts Python executados
@@ -150,27 +150,27 @@ def update_markdown_log(md_path, entry, timestamp):
 *Gerado por script-usage-logger.py*
 """
 
-    # Save the updated Markdown
+    # Salva o Markdown atualizado
     with open(md_path, 'w') as f:
         f.write(content)
 
 
-# Main execution
+# Execução principal
 if __name__ == "__main__":
     try:
-        # Read input from stdin
+        # Lê entrada do stdin
         input_data = json.load(sys.stdin)
 
         tool_name = input_data.get("tool_name", "")
         tool_input = input_data.get("tool_input", {})
         tool_response = input_data.get("tool_response", {})
 
-        # Log the script usage
+        # Registra o uso do script
         log_script_usage(tool_name, tool_input, tool_response)
 
-        # Always exit successfully
+        # Sempre sai com sucesso
         sys.exit(0)
 
     except Exception as e:
-        print(f"Hook error: {e}", file=sys.stderr)
+        print(f"Erro do hook: {e}", file=sys.stderr)
         sys.exit(0)

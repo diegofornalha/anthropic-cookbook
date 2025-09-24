@@ -1,6 +1,6 @@
 # !/usr/bin/env python3
 """
-Hiring Impact Calculator for TechStart Inc
+Hiring Impact Calculator for Diego Fornalha
 Calculates the financial impact of hiring engineers
 """
 

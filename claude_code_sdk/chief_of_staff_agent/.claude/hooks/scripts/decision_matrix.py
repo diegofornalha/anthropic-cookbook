@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Decision Matrix Tool - Strategic decision framework for complex choices
-Custom Python script for the Chief of Staff agent
+Ferramenta de Matriz de Decisão - Framework de decisão estratégica para escolhas complexas
+Script Python customizado para o agente Chief of Staff
 """
 
 import argparse
@@ -9,7 +9,7 @@ import json
 
 
 def create_decision_matrix(options: list[dict], criteria: list[dict]) -> dict:
-    """Create a weighted decision matrix for strategic choices"""
+    """Cria uma matriz de decisão ponderada para escolhas estratégicas"""
 
     results = {"options": [], "winner": None, "analysis": {}}
 
@@ -24,12 +24,12 @@ def create_decision_matrix(options: list[dict], criteria: list[dict]) -> dict:
             "verdict": "",
         }
 
-        # Calculate scores for each criterion
+        # Calcula pontuações para cada critério
         for criterion in criteria:
             crit_name = criterion["name"]
             weight = criterion["weight"]
 
-            # Get score for this option on this criterion (1-10)
+            # Obtém pontuação para esta opção neste critério (1-10)
             score = option.get(crit_name, 5)
             weighted = score * weight
 
@@ -37,15 +37,15 @@ def create_decision_matrix(options: list[dict], criteria: list[dict]) -> dict:
             option_scores["weighted_scores"][crit_name] = round(weighted, 2)
             option_scores["total"] += weighted
 
-            # Track pros and cons
+            # Rastreia prós e contras
             if score >= 8:
-                option_scores["pros"].append(f"Excellent {crit_name}")
+                option_scores["pros"].append(f"Excelente {crit_name}")
             elif score >= 6:
-                option_scores["pros"].append(f"Good {crit_name}")
+                option_scores["pros"].append(f"Bom {crit_name}")
             elif score <= 3:
-                option_scores["cons"].append(f"Poor {crit_name}")
+                option_scores["cons"].append(f"Ruim {crit_name}")
             elif score <= 5:
-                option_scores["cons"].append(f"Weak {crit_name}")
+                option_scores["cons"].append(f"Fraco {crit_name}")
 
         option_scores["total"] = round(option_scores["total"], 2)
 

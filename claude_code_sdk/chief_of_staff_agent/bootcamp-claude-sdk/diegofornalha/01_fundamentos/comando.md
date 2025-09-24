@@ -1,0 +1,1 @@
+cd /Users/2a/.claude/anthropic-cookbook/claude_code_sdk/chief_of_staff_agent/diegofornalha/01_fundamentos && source ../00_inicio/venv/bin/activate && python 01_hello_claude.py
